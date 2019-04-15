@@ -30,3 +30,10 @@ in your command shell execute
 ffmpeg -i "name of songfile" -ss "startsecond" -t "endsecond" "outputfilename"
 for example
 ffmpeg -i temp/Up_All_Night.mp3 -ss 100 -t 115 querries/Up_All_Night_query15.mp3
+
+## turn all your songs in temp into querries of length x
+start the python file generateQuerries
+give a number of seconds of querry length (e.g. 5 ; 10 ; 15)
+-> For now I have created my querries with the lenght of 15 seconds
+
+## **NOTE** Add all generated querries to the git so we have them, but dont save the temp folder to git
