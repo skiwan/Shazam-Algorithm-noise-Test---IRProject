@@ -37,3 +37,26 @@ give a number of seconds of querry length (e.g. 5 ; 10 ; 15)
 -> For now I have created my querries with the lenght of 15 seconds
 
 ## **NOTE** Add all generated querries to the git so we have them, but dont save the temp folder to git
+
+
+# Roadmap
+Roadmap:
+
+- Read the Article and get a basic understanding of the algorithm used (we dont need to implement this ourself but they will ask questions during th presentation) **done**
+- Get the Code of https://github.com/dpwe/audfprint working locally on your own computer (note you need to install ffmpeg first on your pc, if you have problems with that contact me, ive been using it on my windows for a while now)
+-Gather data and out it into a goole drive (max of 500 songs from our own librarys in mp3 format) **done**
+- use 50% of recordings to create snippes of them fro querries and create baseline acc of the algorithm (we could discuss oin the 50 % and use less if you guys want but thats what ming and me came up with) **done**
+- Condcut the following noise test
+	+ add white noise
+	+ add speech sample
+	+ add noisi environment sample
+	+ pitch shifting
+	+ fasten querry
+	+ slow querry
+	+ compress querry
+
+all those experiments that add noise need to be tested on singla/noise ratio form -15db to +15db
+
+- Write the Report (max 10 pages) till 15th of may (Deadline is 17th)
+- Create a Poster for the presentation (8-12 DinA4 pages) till 15th of may (presentation on 15th)
+- Create Demo for Presentation
