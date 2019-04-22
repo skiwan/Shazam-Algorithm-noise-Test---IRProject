@@ -31,10 +31,10 @@ for ql in querryLen:
             cline = cline.replace('raw hashes as ','')
             cline = cline.replace('common hashes at rank ', '')
             # query question
-            qq = re.search(r"(querries)[\w,\/,\s,\d,\[,\],\-,\(,\),\.,\&]+(\.mp3|\.m4a|\.wma|\.wav)(?! at)",cline).group(0)
+            qq = re.search(r"(querries)[\–,\',\w,\/,\s,\d,\[,\],\-,\(,\),\.,\&]+(\.mp3|\.m4a|\.wma|\.wav)(?! at)",cline).group(0)
             qq = qq.replace('querries/'+str(ql)+'/'+str(ql)+'query_','')
             # query answer
-            qa = re.search(r"(\.\.)[\w,\/,\s,\d,\[,\],\-,\(,\),\.,\&]+(\.mp3|\.m4a|\.wma|\.wav)",cline).group(0)
+            qa = re.search(r"(\.\.)[\–,\',\w,\/,\s,\d,\[,\],\-,\(,\),\.,\&]+(\.mp3|\.m4a|\.wma|\.wav)",cline).group(0)
             qa = qa.replace('../temp/','')
             if(qa == qq):
                 c += 1

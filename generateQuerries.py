@@ -29,9 +29,9 @@ for ql in querryLen:
             c+=1
             # get random start time for querry
             start = random.randint(20,(duration-duration//3))
-            end = start + ql
             
-            command = ['ffmpeg','-i','temp/'+f, '-ss', str(start), '-t', str(end), outf]
+            command = ['ffmpeg','-i','temp/'+f, '-ss', str(start), '-t', str(ql), outf]
+            
             ffmpeg_P = subprocess.Popen(command, stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
 
             output = ffmpeg_P.communicate()

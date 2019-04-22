@@ -1,21 +1,9 @@
 CalcGroundtruth for: 5
 Calculate for file: q5matches.txt
-
-MISMATCH
-matched querries/5/5query_tristam _ braken - far away (original mix).mp3 127.8  11590 ../temp/tristam _ braken - far away (original mix)(1).mp3 at  123.0 s with  2255 of  4647  0
-
-tristam _ braken - far away (original mix).mp3
-tristam _ braken - far away (original mix)(1).mp3
-(5, 203, '/', 204, 0.9950980392156863)
+(5, 198, '/', 198, 1.0)
 CalcGroundtruth for: 10
 Calculate for file: q10matches.txt
-
-MISMATCH
-matched querries/10/10query_tristam _ braken - far away (original mix).mp3 121.4  9999 ../temp/tristam _ braken - far away (original mix)(1).mp3 at  149.0 s with  1681 of  3557  0
-
-tristam _ braken - far away (original mix).mp3
-tristam _ braken - far away (original mix)(1).mp3
-(10, 203, '/', 204, 0.9950980392156863)
+(10, 203, '/', 203, 1.0)
 CalcGroundtruth for: 15
 Calculate for file: q15matches.txt
-(15, 204, '/', 204, 1.0)
+(15, 201, '/', 201, 1.0)
