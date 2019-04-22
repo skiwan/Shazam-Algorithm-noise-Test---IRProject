@@ -4,7 +4,7 @@ import random
 querryPath = "querries/"
 querryLen = [5,10,15]
 goalPath = querryPath+"speedUp"
-speedUp = [0.5,0.75,1.25,1.5]
+speedUp = [0.25,0.5,0.75,1.25,1.5,1.75]
 for ql in querryLen:
     print("Strated with QL: " + str(ql))
     # Create subfolder if not existend
@@ -25,6 +25,8 @@ for ql in querryLen:
             outf = speedpath + f
             
             # get duration inseconds of current song
-            command = ['ffmpeg' ,'-i' ,querryPath+str(ql)+'/'+f ,'-filter:v' ,'setpts='+str(s)+'*PTS' ,outf]
+            command = ['ffmpeg' ,'-i' ,querryPath+str(ql)+'/'+f ,'-filter:a' ,'atempo='+str(s),'-vn' ,outf]
+            print(command)
+            quit()
             ffmpeg_P = subprocess.Popen(command, stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
             out =(ffmpeg_P.communicate()[0])
