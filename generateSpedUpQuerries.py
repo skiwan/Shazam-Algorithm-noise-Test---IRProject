@@ -26,7 +26,5 @@ for ql in querryLen:
             
             # get duration inseconds of current song
             command = ['ffmpeg' ,'-i' ,querryPath+str(ql)+'/'+f ,'-filter:a' ,'atempo='+str(s),'-vn' ,outf]
-            print(command)
-            quit()
             ffmpeg_P = subprocess.Popen(command, stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
             out =(ffmpeg_P.communicate()[0])
