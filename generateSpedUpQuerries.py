@@ -4,7 +4,7 @@ import random
 querryPath = "querries/"
 querryLen = [5,10,15]
 goalPath = querryPath+"speedUp"
-speedUp = [0.25,0.5,0.75,1.25,1.5,1.75]
+speedUp = [0.5,0.75,1.25,1.5,1.75]
 for ql in querryLen:
     print("Strated with QL: " + str(ql))
     # Create subfolder if not existend
