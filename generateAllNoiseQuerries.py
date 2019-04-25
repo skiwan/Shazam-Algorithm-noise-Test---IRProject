@@ -61,5 +61,4 @@ for ql in querryLen:
             for f in garbageFiles:
                 if('prep_' in f):
                     os.remove(dbpath+f)
-            quit()
     
