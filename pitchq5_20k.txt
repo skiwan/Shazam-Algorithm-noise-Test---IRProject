@@ -1,0 +1,1025 @@
+Fri Apr 26 02:45:57 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:46:00 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_01 I Want You to Know (feat. Selena Gomez).mp3 of 4.853 s to 439 hashes
+Matched querries/pitchAdjust5/20000/5query_01 I Want You to Know (feat. Selena Gomez).mp3 4.9 sec 439 raw hashes as ../temp/01 I Want You to Know (feat. Selena Gomez).mp3 at   22.0 s with    40 of    48 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.627 x RT
+Fri Apr 26 02:46:01 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:46:04 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_01 Isometric (Intro).mp3 of 4.876 s to 424 hashes
+Matched querries/pitchAdjust5/20000/5query_01 Isometric (Intro).mp3 4.9 sec 424 raw hashes as ../temp/01 Isometric (Intro).mp3 at   31.0 s with    38 of    41 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.598 x RT
+Fri Apr 26 02:46:05 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:46:08 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_01 Rosaline.mp3 of 4.644 s to 96 hashes
+Matched querries/pitchAdjust5/20000/5query_01 Rosaline.mp3 4.6 sec 96 raw hashes as ../temp/01 Rosaline.mp3 at  121.0 s with    12 of    12 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.8 s sec = 0.555 x RT
+Fri Apr 26 02:46:09 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:46:12 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_01 San Francisco.wma of 4.923 s to 235 hashes
+Matched querries/pitchAdjust5/20000/5query_01 San Francisco.wma 4.9 sec 235 raw hashes as ../temp/01 San Francisco.wma at  135.0 s with    44 of    53 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.593 x RT
+Fri Apr 26 02:46:13 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:46:17 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_01 Zieh Die Schuh Aus.mp3 of 4.876 s to 456 hashes
+Matched querries/pitchAdjust5/20000/5query_01 Zieh Die Schuh Aus.mp3 4.9 sec 456 raw hashes as ../temp/01 Zieh Die Schuh Aus.mp3 at   86.0 s with    72 of    78 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.4 s sec = 0.681 x RT
+Fri Apr 26 02:46:18 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:46:21 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_02 Kein Mann Für Eine Frau.mp3 of 4.807 s to 288 hashes
+Matched querries/pitchAdjust5/20000/5query_02 Kein Mann Für Eine Frau.mp3 4.8 sec 288 raw hashes as ../temp/02 Kein Mann Für Eine Frau.mp3 at   60.0 s with    28 of    30 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.603 x RT
+Fri Apr 26 02:46:22 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:46:25 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_02 King Street.wma of 4.180 s to 183 hashes
+Matched querries/pitchAdjust5/20000/5query_02 King Street.wma 4.2 sec 183 raw hashes as ../temp/02 King Street.wma at   81.0 s with    26 of    26 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.597 x RT
+Fri Apr 26 02:46:26 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:46:28 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_02 Klassenfahrt.wma of 4.667 s to 492 hashes
+Matched querries/pitchAdjust5/20000/5query_02 Klassenfahrt.wma 4.7 sec 492 raw hashes as ../temp/02 Klassenfahrt.wma at   70.0 s with    76 of   115 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.8 s sec = 0.551 x RT
+Fri Apr 26 02:46:29 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:46:32 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_02 Tanzmädchen.mp3 of 4.807 s to 215 hashes
+Matched querries/pitchAdjust5/20000/5query_02 Tanzmädchen.mp3 4.8 sec 215 raw hashes as ../temp/02 Tanzmädchen.mp3 at   97.0 s with    40 of    49 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.575 x RT
+Fri Apr 26 02:46:33 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:46:36 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_02 Treading Water.m4a of 4.853 s to 222 hashes
+Matched querries/pitchAdjust5/20000/5query_02 Treading Water.m4a 4.9 sec 222 raw hashes as ../temp/02 Treading Water.m4a at   24.0 s with    43 of    46 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.628 x RT
+Fri Apr 26 02:46:37 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:46:41 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_02_-_Paulo_Chagas-Marco_Lucchi-Dario_Derek_Lucchi_-_Milady_of_the_Crows.mp3 of 4.830 s to 113 hashes
+Matched querries/pitchAdjust5/20000/5query_02_-_Paulo_Chagas-Marco_Lucchi-Dario_Derek_Lucchi_-_Milady_of_the_Crows.mp3 4.8 sec 113 raw hashes as ../temp/02_-_Paulo_Chagas-Marco_Lucchi-Dario_Derek_Lucchi_-_Milady_of_the_Crows.mp3 at   77.0 s with    10 of    32 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.3 s sec = 0.657 x RT
+Fri Apr 26 02:46:42 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:46:45 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_03 Im Flugzeug.wma of 4.923 s to 403 hashes
+Matched querries/pitchAdjust5/20000/5query_03 Im Flugzeug.wma 4.9 sec 403 raw hashes as ../temp/03 Im Flugzeug.wma at  112.0 s with    90 of   105 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.594 x RT
+Fri Apr 26 02:46:46 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:46:49 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_03 Mehr davon.mp3 of 4.923 s to 345 hashes
+Matched querries/pitchAdjust5/20000/5query_03 Mehr davon.mp3 4.9 sec 345 raw hashes as ../temp/03 Mehr davon.mp3 at   91.0 s with    39 of    45 common hashes at rank  2
+Processed 1 files (5.0 s total dur) in 3.2 s sec = 0.644 x RT
+Fri Apr 26 02:46:50 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:46:53 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_03 Ok.mp3 of 4.714 s to 456 hashes
+Matched querries/pitchAdjust5/20000/5query_03 Ok.mp3 4.7 sec 456 raw hashes as ../temp/03 Ok.mp3 at  113.0 s with    59 of   130 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.4 s sec = 0.688 x RT
+Fri Apr 26 02:46:54 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:46:58 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_03 Relax My Beloved.m4a of 4.714 s to 297 hashes
+Matched querries/pitchAdjust5/20000/5query_03 Relax My Beloved.m4a 4.7 sec 297 raw hashes as ../temp/03 Relax My Beloved.m4a at   88.0 s with    48 of    57 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.621 x RT
+Fri Apr 26 02:46:59 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:47:02 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_03 Shooting Stars & Fairy Tales.mp3 of 4.783 s to 351 hashes
+Matched querries/pitchAdjust5/20000/5query_03 Shooting Stars & Fairy Tales.mp3 4.8 sec 351 raw hashes as ../temp/03 Shooting Stars & Fairy Tales.mp3 at   49.0 s with    41 of   210 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.629 x RT
+Fri Apr 26 02:47:03 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:47:06 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_03 Spielmannsliebe.mp3 of 4.435 s to 359 hashes
+Matched querries/pitchAdjust5/20000/5query_03 Spielmannsliebe.mp3 4.4 sec 359 raw hashes as ../temp/03 Spielmannsliebe.mp3 at   88.0 s with    65 of    67 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.612 x RT
+Fri Apr 26 02:47:07 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:47:10 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_03 Thirteen Sad Farewells.wma of 4.760 s to 176 hashes
+Matched querries/pitchAdjust5/20000/5query_03 Thirteen Sad Farewells.wma 4.8 sec 176 raw hashes as ../temp/03 Thirteen Sad Farewells.wma at   38.9 s with    14 of    14 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.584 x RT
+Fri Apr 26 02:47:11 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:47:14 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_03_-_Patrick_Masson_-_Aulodia_Tragica_reworked.mp3 of 4.807 s to 465 hashes
+Matched querries/pitchAdjust5/20000/5query_03_-_Patrick_Masson_-_Aulodia_Tragica_reworked.mp3 4.8 sec 465 raw hashes as ../temp/03_-_Patrick_Masson_-_Aulodia_Tragica_reworked.mp3 at   24.0 s with    14 of   382 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.628 x RT
+Fri Apr 26 02:47:15 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:47:18 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_04 Absinth.mp3 of 4.923 s to 306 hashes
+Matched querries/pitchAdjust5/20000/5query_04 Absinth.mp3 4.9 sec 306 raw hashes as ../temp/04 Absinth.mp3 at   49.0 s with    44 of    55 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.8 s sec = 0.570 x RT
+Fri Apr 26 02:47:19 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:47:22 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_04 Box Of Colors.mp3 of 4.342 s to 213 hashes
+Matched querries/pitchAdjust5/20000/5query_04 Box Of Colors.mp3 4.3 sec 213 raw hashes as ../temp/04 Box Of Colors.mp3 at   93.0 s with    17 of    20 common hashes at rank  6
+Processed 1 files (5.0 s total dur) in 3.2 s sec = 0.633 x RT
+Fri Apr 26 02:47:23 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:47:26 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_04 Du warst noch nie hier.mp3 of 4.923 s to 289 hashes
+Matched querries/pitchAdjust5/20000/5query_04 Du warst noch nie hier.mp3 4.9 sec 289 raw hashes as ../temp/04 Du warst noch nie hier.mp3 at   23.0 s with    46 of    48 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.619 x RT
+Fri Apr 26 02:47:27 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:47:30 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_04 Ferry to Dublin.wma of 3.924 s to 60 hashes
+NOMATCH querries/pitchAdjust5/20000/5query_04 Ferry to Dublin.wma 3.9 sec 60 raw hashes
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.589 x RT
+Fri Apr 26 02:47:31 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:47:34 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_04 Hollowness.m4a of 4.714 s to 387 hashes
+Matched querries/pitchAdjust5/20000/5query_04 Hollowness.m4a 4.7 sec 387 raw hashes as ../temp/04 Hollowness.m4a at   22.0 s with    39 of    67 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.589 x RT
+Fri Apr 26 02:47:35 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:47:38 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_04 Ich Atme Ein [New Version].mp3 of 4.551 s to 322 hashes
+Matched querries/pitchAdjust5/20000/5query_04 Ich Atme Ein [New Version].mp3 4.6 sec 322 raw hashes as ../temp/04 Ich Atme Ein [New Version].mp3 at   48.0 s with    77 of    78 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.585 x RT
+Fri Apr 26 02:47:39 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:47:42 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_04 It don't matter.mp3 of 4.807 s to 120 hashes
+Matched querries/pitchAdjust5/20000/5query_04 It don't matter.mp3 4.8 sec 120 raw hashes as ../temp/04 It don't matter.mp3 at  102.0 s with    11 of    14 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.597 x RT
+Fri Apr 26 02:47:43 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:47:45 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_04. In Vitro - Transitional Dimension.mp3 of 4.621 s to 559 hashes
+Matched querries/pitchAdjust5/20000/5query_04. In Vitro - Transitional Dimension.mp3 4.6 sec 559 raw hashes as ../temp/04. In Vitro - Transitional Dimension.mp3 at  184.0 s with    41 of  1649 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.597 x RT
+Fri Apr 26 02:47:46 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:47:49 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_04_-_Mitsushi_Hasegawa_-_Aulodia_Tragica_reworked.mp3 of 4.899 s to 149 hashes
+Matched querries/pitchAdjust5/20000/5query_04_-_Mitsushi_Hasegawa_-_Aulodia_Tragica_reworked.mp3 4.9 sec 149 raw hashes as ../temp/04_-_Mitsushi_Hasegawa_-_Aulodia_Tragica_reworked.mp3 at   43.0 s with     6 of     8 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.8 s sec = 0.569 x RT
+Fri Apr 26 02:47:50 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:47:53 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_05 After All.mp3 of 4.458 s to 187 hashes
+Matched querries/pitchAdjust5/20000/5query_05 After All.mp3 4.5 sec 187 raw hashes as ../temp/05 After All.mp3 at   52.0 s with    15 of    17 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.625 x RT
+Fri Apr 26 02:47:55 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:47:58 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_05 Everything (Ciara).mp3 of 4.899 s to 271 hashes
+Matched querries/pitchAdjust5/20000/5query_05 Everything (Ciara).mp3 4.9 sec 271 raw hashes as ../temp/05 Everything (Ciara).mp3 at  137.0 s with    38 of    39 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.604 x RT
+Fri Apr 26 02:47:59 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:48:02 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_05 Pay No Mind (feat. Passion Pit).mp3 of 4.714 s to 492 hashes
+Matched querries/pitchAdjust5/20000/5query_05 Pay No Mind (feat. Passion Pit).mp3 4.7 sec 492 raw hashes as ../temp/05 Pay No Mind (feat. Passion Pit).mp3 at  118.0 s with    70 of   309 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.594 x RT
+Fri Apr 26 02:48:03 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:48:05 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_05 Prologue.m4a of 4.923 s to 523 hashes
+Matched querries/pitchAdjust5/20000/5query_05 Prologue.m4a 4.9 sec 523 raw hashes as ../temp/05 Prologue.m4a at  119.0 s with    54 of   178 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.8 s sec = 0.551 x RT
+Fri Apr 26 02:48:06 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:48:09 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_05 Schieß Mich Doch Zum Mond.mp3 of 4.923 s to 430 hashes
+Matched querries/pitchAdjust5/20000/5query_05 Schieß Mich Doch Zum Mond.mp3 4.9 sec 430 raw hashes as ../temp/05 Schieß Mich Doch Zum Mond.mp3 at   43.0 s with    65 of    85 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.618 x RT
+Fri Apr 26 02:48:10 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:48:13 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_05 Wenn Worte meine Sprache wären.mp3 of 4.667 s to 318 hashes
+Matched querries/pitchAdjust5/20000/5query_05 Wenn Worte meine Sprache wären.mp3 4.7 sec 318 raw hashes as ../temp/05 Wenn Worte meine Sprache wären.mp3 at   80.0 s with    63 of    66 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.611 x RT
+Fri Apr 26 02:48:15 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:48:18 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_06 Beings.mp3 of 4.760 s to 82 hashes
+NOMATCH querries/pitchAdjust5/20000/5query_06 Beings.mp3 4.8 sec 82 raw hashes
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.577 x RT
+Fri Apr 26 02:48:19 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:48:22 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_06 Das Ist Der Hammer.wma of 4.621 s to 422 hashes
+Matched querries/pitchAdjust5/20000/5query_06 Das Ist Der Hammer.wma 4.6 sec 422 raw hashes as ../temp/06 Das Ist Der Hammer.wma at   58.0 s with    39 of   119 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.626 x RT
+Fri Apr 26 02:48:23 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:48:26 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_06 Das letzte Mal.mp3 of 4.226 s to 285 hashes
+Matched querries/pitchAdjust5/20000/5query_06 Das letzte Mal.mp3 4.2 sec 285 raw hashes as ../temp/06 Das letzte Mal.mp3 at   86.0 s with    21 of    30 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.587 x RT
+Fri Apr 26 02:48:27 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:48:29 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_06 Let Go.mp3 of 4.574 s to 279 hashes
+Matched querries/pitchAdjust5/20000/5query_06 Let Go.mp3 4.6 sec 279 raw hashes as ../temp/06 Let Go.mp3 at   20.0 s with    41 of    41 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.571 x RT
+Fri Apr 26 02:48:30 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:48:33 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_06 The one that got away.mp3 of 4.853 s to 237 hashes
+Matched querries/pitchAdjust5/20000/5query_06 The one that got away.mp3 4.9 sec 237 raw hashes as ../temp/06 The one that got away.mp3 at   99.0 s with    31 of    40 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.576 x RT
+Fri Apr 26 02:48:34 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:48:37 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_06 Wenn Sie Dich Fragt.mp3 of 4.899 s to 275 hashes
+Matched querries/pitchAdjust5/20000/5query_06 Wenn Sie Dich Fragt.mp3 4.9 sec 275 raw hashes as ../temp/06 Wenn Sie Dich Fragt.mp3 at  149.0 s with    30 of    41 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.8 s sec = 0.566 x RT
+Fri Apr 26 02:48:38 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:48:41 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_06_Too_Many_Modes_64kb.mp3 of 4.923 s to 362 hashes
+Matched querries/pitchAdjust5/20000/5query_06_Too_Many_Modes_64kb.mp3 4.9 sec 362 raw hashes as ../temp/06_Too_Many_Modes_64kb.mp3 at   36.0 s with    48 of   358 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.592 x RT
+Fri Apr 26 02:48:42 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:48:45 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_07 Hands Are Clever.m4a of 4.853 s to 200 hashes
+Matched querries/pitchAdjust5/20000/5query_07 Hands Are Clever.m4a 4.9 sec 200 raw hashes as ../temp/07 Hands Are Clever.m4a at  130.0 s with    44 of    45 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.2 s sec = 0.645 x RT
+Fri Apr 26 02:48:46 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:48:49 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_07 Imperium.mp3 of 4.923 s to 417 hashes
+Matched querries/pitchAdjust5/20000/5query_07 Imperium.mp3 4.9 sec 417 raw hashes as ../temp/07 Imperium.mp3 at  108.0 s with    34 of   115 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.7 s sec = 0.540 x RT
+Fri Apr 26 02:48:50 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:48:53 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_07 Lass Die Sonne Scheinen.wma of 4.528 s to 477 hashes
+Matched querries/pitchAdjust5/20000/5query_07 Lass Die Sonne Scheinen.wma 4.5 sec 477 raw hashes as ../temp/07 Lass Die Sonne Scheinen.wma at   45.0 s with    84 of   166 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.622 x RT
+Fri Apr 26 02:48:54 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:48:57 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_07_-_moody_alien_-_Milady_of_the_Crows_Ascension.mp3 of 4.923 s to 321 hashes
+Matched querries/pitchAdjust5/20000/5query_07_-_moody_alien_-_Milady_of_the_Crows_Ascension.mp3 4.9 sec 321 raw hashes as ../temp/07_-_moody_alien_-_Milady_of_the_Crows_Ascension.mp3 at  115.0 s with    25 of    64 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.594 x RT
+Fri Apr 26 02:48:58 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:49:01 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_08 Daft Punk.mp3 of 4.807 s to 348 hashes
+Matched querries/pitchAdjust5/20000/5query_08 Daft Punk.mp3 4.8 sec 348 raw hashes as ../temp/08 Daft Punk.mp3 at  140.0 s with    29 of    31 common hashes at rank  1
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.586 x RT
+Fri Apr 26 02:49:02 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:49:05 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_08 Ich Idiot Ließ Dich Gehen.mp3 of 4.714 s to 248 hashes
+Matched querries/pitchAdjust5/20000/5query_08 Ich Idiot Ließ Dich Gehen.mp3 4.7 sec 248 raw hashes as ../temp/08 Ich Idiot Ließ Dich Gehen.mp3 at   62.0 s with    32 of    38 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.578 x RT
+Fri Apr 26 02:49:06 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:49:09 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_08 It Will Never Rain Roses.mp3 of 4.807 s to 244 hashes
+Matched querries/pitchAdjust5/20000/5query_08 It Will Never Rain Roses.mp3 4.8 sec 244 raw hashes as ../temp/08 It Will Never Rain Roses.mp3 at   45.0 s with    17 of    22 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.622 x RT
+Fri Apr 26 02:49:10 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:49:13 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_08 Tight Rope.m4a of 4.714 s to 414 hashes
+Matched querries/pitchAdjust5/20000/5query_08 Tight Rope.m4a 4.7 sec 414 raw hashes as ../temp/08 Tight Rope.m4a at   82.0 s with    60 of  3626 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.620 x RT
+Fri Apr 26 02:49:14 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:49:18 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_08_-_Mean_Flow_-_Aulodia_Tragica_reworked.mp3 of 4.876 s to 196 hashes
+NOMATCH querries/pitchAdjust5/20000/5query_08_-_Mean_Flow_-_Aulodia_Tragica_reworked.mp3 4.9 sec 196 raw hashes
+Processed 1 files (5.0 s total dur) in 3.8 s sec = 0.753 x RT
+Fri Apr 26 02:49:19 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:49:22 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_08_3-Way_64kb.mp3 of 4.737 s to 239 hashes
+Matched querries/pitchAdjust5/20000/5query_08_3-Way_64kb.mp3 4.7 sec 239 raw hashes as ../temp/08_3-Way_64kb.mp3 at   99.0 s with    26 of    56 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.592 x RT
+Fri Apr 26 02:49:23 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:49:26 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_09 - Beyond.mp3 of 4.458 s to 316 hashes
+Matched querries/pitchAdjust5/20000/5query_09 - Beyond.mp3 4.5 sec 316 raw hashes as ../temp/09 - Beyond.mp3 at  169.0 s with    23 of    35 common hashes at rank  1
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.608 x RT
+Fri Apr 26 02:49:27 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:49:30 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_09 Es kommt zurück.mp3 of 4.737 s to 476 hashes
+Matched querries/pitchAdjust5/20000/5query_09 Es kommt zurück.mp3 4.7 sec 476 raw hashes as ../temp/09 Es kommt zurück.mp3 at   97.0 s with    41 of    47 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.575 x RT
+Fri Apr 26 02:49:31 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:49:34 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_09 Save the World _ Don_t You Worry Child.mp3 of 4.714 s to 321 hashes
+Matched querries/pitchAdjust5/20000/5query_09 Save the World _ Don_t You Worry Child.mp3 4.7 sec 321 raw hashes as ../temp/09 Save the World _ Don_t You Worry Child.mp3 at   24.0 s with    26 of    26 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.629 x RT
+Fri Apr 26 02:49:35 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:49:38 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_09 Starte Durch.wma of 4.714 s to 502 hashes
+Matched querries/pitchAdjust5/20000/5query_09 Starte Durch.wma 4.7 sec 502 raw hashes as ../temp/09 Starte Durch.wma at   29.0 s with    83 of   104 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.583 x RT
+Fri Apr 26 02:49:39 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:49:42 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_10 Bright Side.mp3 of 4.923 s to 358 hashes
+Matched querries/pitchAdjust5/20000/5query_10 Bright Side.mp3 4.9 sec 358 raw hashes as ../temp/10 Bright Side.mp3 at   70.0 s with    19 of    22 common hashes at rank  1
+Processed 1 files (5.0 s total dur) in 2.7 s sec = 0.533 x RT
+Fri Apr 26 02:49:43 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:49:46 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_10 Ease My Mind.mp3 of 4.923 s to 187 hashes
+Matched querries/pitchAdjust5/20000/5query_10 Ease My Mind.mp3 4.9 sec 187 raw hashes as ../temp/10 Ease My Mind.mp3 at   69.0 s with    25 of    37 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.623 x RT
+Fri Apr 26 02:49:47 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:49:50 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_10 I Love You.m4a of 4.458 s to 321 hashes
+Matched querries/pitchAdjust5/20000/5query_10 I Love You.m4a 4.5 sec 321 raw hashes as ../temp/10 I Love You.m4a at  142.0 s with    39 of   310 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.603 x RT
+Fri Apr 26 02:49:51 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:49:54 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_10 Murphys Gesetz.mp3 of 4.667 s to 495 hashes
+Matched querries/pitchAdjust5/20000/5query_10 Murphys Gesetz.mp3 4.7 sec 495 raw hashes as ../temp/10 Murphys Gesetz.mp3 at  114.0 s with    72 of   168 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.597 x RT
+Fri Apr 26 02:49:55 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:49:57 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_10 Skin & Bone.wma of 4.180 s to 113 hashes
+Matched querries/pitchAdjust5/20000/5query_10 Skin & Bone.wma 4.2 sec 113 raw hashes as ../temp/10 Skin & Bone.wma at  132.0 s with    11 of    13 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.7 s sec = 0.528 x RT
+Fri Apr 26 02:49:58 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:50:02 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_10_-_Ostacoli_Sonori_-_Aulodia_Tragica_reworked.mp3 of 4.644 s to 174 hashes
+Matched querries/pitchAdjust5/20000/5query_10_-_Ostacoli_Sonori_-_Aulodia_Tragica_reworked.mp3 4.6 sec 174 raw hashes as ../temp/10_-_Ostacoli_Sonori_-_Aulodia_Tragica_reworked.mp3 at   37.0 s with    25 of    38 common hashes at rank  1
+Processed 1 files (5.0 s total dur) in 3.2 s sec = 0.638 x RT
+Fri Apr 26 02:50:03 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:50:05 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_11 Fire Away.mp3 of 4.899 s to 353 hashes
+Matched querries/pitchAdjust5/20000/5query_11 Fire Away.mp3 4.9 sec 353 raw hashes as ../temp/11 Fire Away.mp3 at   33.0 s with    60 of   118 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.8 s sec = 0.557 x RT
+Fri Apr 26 02:50:06 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:50:09 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_11 Pixel Empire.mp3 of 4.783 s to 620 hashes
+Matched querries/pitchAdjust5/20000/5query_11 Pixel Empire.mp3 4.8 sec 620 raw hashes as ../temp/11 Pixel Empire.mp3 at  109.0 s with    34 of   161 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.615 x RT
+Fri Apr 26 02:50:10 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:50:13 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_11 Sanctuary.m4a of 4.876 s to 364 hashes
+Matched querries/pitchAdjust5/20000/5query_11 Sanctuary.m4a 4.9 sec 364 raw hashes as ../temp/11 Sanctuary.m4a at  126.0 s with    38 of    42 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.605 x RT
+Fri Apr 26 02:50:15 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:50:18 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_11 Schall & Rauch.mp3 of 4.481 s to 354 hashes
+Matched querries/pitchAdjust5/20000/5query_11 Schall & Rauch.mp3 4.5 sec 354 raw hashes as ../temp/11 Schall & Rauch.mp3 at   41.0 s with    56 of    56 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.608 x RT
+Fri Apr 26 02:50:19 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:50:21 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_12 Home.mp3 of 4.714 s to 476 hashes
+Matched querries/pitchAdjust5/20000/5query_12 Home.mp3 4.7 sec 476 raw hashes as ../temp/12 Home.mp3 at   74.0 s with    32 of   197 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.585 x RT
+Fri Apr 26 02:50:23 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:50:25 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_12 I Won_t Let You Down.m4a of 3.483 s to 62 hashes
+NOMATCH querries/pitchAdjust5/20000/5query_12 I Won_t Let You Down.m4a 3.5 sec 62 raw hashes
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.589 x RT
+Fri Apr 26 02:50:27 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:50:29 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_13 Du Willst Es Doch Auch.mp3 of 4.876 s to 185 hashes
+Matched querries/pitchAdjust5/20000/5query_13 Du Willst Es Doch Auch.mp3 4.9 sec 185 raw hashes as ../temp/13 Du Willst Es Doch Auch.mp3 at   97.0 s with    21 of    23 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.595 x RT
+Fri Apr 26 02:50:31 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:50:34 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_13 Icarus.mp3 of 4.760 s to 410 hashes
+Matched querries/pitchAdjust5/20000/5query_13 Icarus.mp3 4.8 sec 410 raw hashes as ../temp/13 Icarus.mp3 at  104.0 s with    30 of   146 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.580 x RT
+Fri Apr 26 02:50:35 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:50:38 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_13 Keine Zeit.mp3 of 4.783 s to 271 hashes
+Matched querries/pitchAdjust5/20000/5query_13 Keine Zeit.mp3 4.8 sec 271 raw hashes as ../temp/13 Keine Zeit.mp3 at   94.0 s with    52 of    93 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.603 x RT
+Fri Apr 26 02:50:39 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:50:42 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_13 Mit Besten Grüßen.wma of 4.853 s to 420 hashes
+Matched querries/pitchAdjust5/20000/5query_13 Mit Besten Grüßen.wma 4.9 sec 420 raw hashes as ../temp/13 Mit Besten Grüßen.wma at   93.9 s with    63 of   133 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.589 x RT
+Fri Apr 26 02:50:43 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:50:46 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_13 Union Town (Piano Version).mp3 of 4.598 s to 275 hashes
+Matched querries/pitchAdjust5/20000/5query_13 Union Town (Piano Version).mp3 4.6 sec 275 raw hashes as ../temp/13 Union Town (Piano Version).mp3 at   85.0 s with    31 of    34 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.593 x RT
+Fri Apr 26 02:50:47 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:50:50 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_13_-_Paulo_Chagas_and_Marco_Lucchi_-_Aulodia.mp3 of 4.853 s to 220 hashes
+Matched querries/pitchAdjust5/20000/5query_13_-_Paulo_Chagas_and_Marco_Lucchi_-_Aulodia.mp3 4.9 sec 220 raw hashes as ../temp/13_-_Paulo_Chagas_and_Marco_Lucchi_-_Aulodia.mp3 at   80.0 s with    10 of    11 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.592 x RT
+Fri Apr 26 02:50:51 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:50:54 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_14 Ich Liebe Sie Dafür.wma of 4.783 s to 387 hashes
+Matched querries/pitchAdjust5/20000/5query_14 Ich Liebe Sie Dafür.wma 4.8 sec 387 raw hashes as ../temp/14 Ich Liebe Sie Dafür.wma at   66.9 s with    51 of    71 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.595 x RT
+Fri Apr 26 02:50:55 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:50:58 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_14 So Geil Berlin.mp3 of 4.783 s to 282 hashes
+Matched querries/pitchAdjust5/20000/5query_14 So Geil Berlin.mp3 4.8 sec 282 raw hashes as ../temp/14 So Geil Berlin.mp3 at   86.0 s with    51 of    60 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.585 x RT
+Fri Apr 26 02:50:59 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:51:02 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_15 Lemon.mp3 of 4.760 s to 438 hashes
+Matched querries/pitchAdjust5/20000/5query_15 Lemon.mp3 4.8 sec 438 raw hashes as ../temp/15 Lemon.mp3 at   68.0 s with    35 of    49 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.593 x RT
+Fri Apr 26 02:51:03 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:51:06 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_15 Sorge Dich Nicht.wma of 4.667 s to 244 hashes
+Matched querries/pitchAdjust5/20000/5query_15 Sorge Dich Nicht.wma 4.7 sec 244 raw hashes as ../temp/15 Sorge Dich Nicht.wma at  125.0 s with    42 of    47 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.627 x RT
+Fri Apr 26 02:51:07 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:51:10 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_16 Cut the Kid.mp3 of 4.807 s to 615 hashes
+Matched querries/pitchAdjust5/20000/5query_16 Cut the Kid.mp3 4.8 sec 615 raw hashes as ../temp/16 Cut the Kid.mp3 at   36.0 s with    54 of    91 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.609 x RT
+Fri Apr 26 02:51:11 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:51:14 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_16 Mein Neues Handy.wma of 4.807 s to 483 hashes
+Matched querries/pitchAdjust5/20000/5query_16 Mein Neues Handy.wma 4.8 sec 483 raw hashes as ../temp/16 Mein Neues Handy.wma at   38.0 s with    61 of    98 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.2 s sec = 0.636 x RT
+Fri Apr 26 02:51:15 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:51:18 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_17 Am Ende Des Tages.wma of 4.876 s to 434 hashes
+Matched querries/pitchAdjust5/20000/5query_17 Am Ende Des Tages.wma 4.9 sec 434 raw hashes as ../temp/17 Am Ende Des Tages.wma at   72.9 s with    65 of    76 common hashes at rank  0
+Processed 1 files (5.1 s total dur) in 3.1 s sec = 0.603 x RT
+Fri Apr 26 02:51:19 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:51:22 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_17 Camo _ Krooked - Like I Do (feat. James Hersey).mp3 of 4.923 s to 411 hashes
+Matched querries/pitchAdjust5/20000/5query_17 Camo _ Krooked - Like I Do (feat. James Hersey).mp3 4.9 sec 411 raw hashes as ../temp/17 Camo _ Krooked - Like I Do (feat. James Hersey).mp3 at   88.0 s with    26 of   134 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.604 x RT
+Fri Apr 26 02:51:23 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:51:26 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_18 Only Way Out (feat. Vancouver Sleep Clinic).mp3 of 4.783 s to 271 hashes
+Matched querries/pitchAdjust5/20000/5query_18 Only Way Out (feat. Vancouver Sleep Clinic).mp3 4.8 sec 271 raw hashes as ../temp/18 Only Way Out (feat. Vancouver Sleep Clinic).mp3 at   49.0 s with    24 of    24 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.580 x RT
+Fri Apr 26 02:51:27 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:51:30 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_51 Saltatio Mortis-Manufactum-Dessous le pont de Nantes.mp3 of 4.714 s to 476 hashes
+Matched querries/pitchAdjust5/20000/5query_51 Saltatio Mortis-Manufactum-Dessous le pont de Nantes.mp3 4.7 sec 476 raw hashes as ../temp/51 Saltatio Mortis-Manufactum-Dessous le pont de Nantes.mp3 at  116.0 s with    37 of    68 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.572 x RT
+Fri Apr 26 02:51:31 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:51:34 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_53 Saltatio Mortis-Manufactum-Saltatio Mortis.mp3 of 4.714 s to 394 hashes
+Matched querries/pitchAdjust5/20000/5query_53 Saltatio Mortis-Manufactum-Saltatio Mortis.mp3 4.7 sec 394 raw hashes as ../temp/53 Saltatio Mortis-Manufactum-Saltatio Mortis.mp3 at   21.0 s with    28 of    40 common hashes at rank  1
+Processed 1 files (5.0 s total dur) in 2.8 s sec = 0.569 x RT
+Fri Apr 26 02:51:34 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:51:37 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_54 Saltatio Mortis-Manufactum-Heptessenz.mp3 of 4.830 s to 458 hashes
+Matched querries/pitchAdjust5/20000/5query_54 Saltatio Mortis-Manufactum-Heptessenz.mp3 4.8 sec 458 raw hashes as ../temp/54 Saltatio Mortis-Manufactum-Heptessenz.mp3 at   80.0 s with    45 of    56 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.606 x RT
+Fri Apr 26 02:51:38 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:51:42 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_59 Saltatio Mortis-Manufactum-Belicha - Bärentanz.mp3 of 4.807 s to 318 hashes
+Matched querries/pitchAdjust5/20000/5query_59 Saltatio Mortis-Manufactum-Belicha - Bärentanz.mp3 4.8 sec 318 raw hashes as ../temp/59 Saltatio Mortis-Manufactum-Belicha - Bärentanz.mp3 at   76.0 s with    13 of    17 common hashes at rank  1
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.607 x RT
+Fri Apr 26 02:51:42 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:51:45 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_60 Saltatio Mortis-Manufactum II-Varulven.mp3 of 4.899 s to 405 hashes
+Matched querries/pitchAdjust5/20000/5query_60 Saltatio Mortis-Manufactum II-Varulven.mp3 4.9 sec 405 raw hashes as ../temp/60 Saltatio Mortis-Manufactum II-Varulven.mp3 at  119.0 s with    24 of    74 common hashes at rank  2
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.603 x RT
+Fri Apr 26 02:51:46 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:51:50 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_64 Saltatio Mortis-Manufactum II-Drunken Sailor.mp3 of 4.946 s to 555 hashes
+Matched querries/pitchAdjust5/20000/5query_64 Saltatio Mortis-Manufactum II-Drunken Sailor.mp3 4.9 sec 555 raw hashes as ../temp/64 Saltatio Mortis-Manufactum II-Drunken Sailor.mp3 at  115.0 s with    67 of   101 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.2 s sec = 0.635 x RT
+Fri Apr 26 02:51:51 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:51:54 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_65 Saltatio Mortis-Manufactum II-Veitstanz.mp3 of 4.737 s to 413 hashes
+Matched querries/pitchAdjust5/20000/5query_65 Saltatio Mortis-Manufactum II-Veitstanz.mp3 4.7 sec 413 raw hashes as ../temp/65 Saltatio Mortis-Manufactum II-Veitstanz.mp3 at   92.0 s with    34 of    37 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.3 s sec = 0.660 x RT
+Fri Apr 26 02:51:55 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:51:58 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_66 Saltatio Mortis-Manufactum II-Palästinalied.mp3 of 4.737 s to 264 hashes
+Matched querries/pitchAdjust5/20000/5query_66 Saltatio Mortis-Manufactum II-Palästinalied.mp3 4.7 sec 264 raw hashes as ../temp/66 Saltatio Mortis-Manufactum II-Palästinalied.mp3 at   24.0 s with    16 of    22 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.601 x RT
+Fri Apr 26 02:51:59 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:52:02 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_67 Saltatio Mortis-Manufactum II-Ecce Gratum.mp3 of 4.389 s to 340 hashes
+Matched querries/pitchAdjust5/20000/5query_67 Saltatio Mortis-Manufactum II-Ecce Gratum.mp3 4.4 sec 340 raw hashes as ../temp/67 Saltatio Mortis-Manufactum II-Ecce Gratum.mp3 at   38.0 s with    37 of    48 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.8 s sec = 0.568 x RT
+Fri Apr 26 02:52:03 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:52:05 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_68 Saltatio Mortis-Manufactum II-Loch Lomond.mp3 of 4.946 s to 353 hashes
+Matched querries/pitchAdjust5/20000/5query_68 Saltatio Mortis-Manufactum II-Loch Lomond.mp3 4.9 sec 353 raw hashes as ../temp/68 Saltatio Mortis-Manufactum II-Loch Lomond.mp3 at  118.0 s with    46 of    46 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.8 s sec = 0.564 x RT
+Fri Apr 26 02:52:06 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:52:09 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_69 Saltatio Mortis-Manufactum II-Spielmannsschwur.mp3 of 4.365 s to 260 hashes
+Matched querries/pitchAdjust5/20000/5query_69 Saltatio Mortis-Manufactum II-Spielmannsschwur.mp3 4.4 sec 260 raw hashes as ../temp/69 Saltatio Mortis-Manufactum II-Spielmannsschwur.mp3 at  140.0 s with    13 of    24 common hashes at rank  4
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.605 x RT
+Fri Apr 26 02:52:11 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:52:14 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_72 Saltatio Mortis-Manufactum II-Skudrinka.mp3 of 4.853 s to 536 hashes
+Matched querries/pitchAdjust5/20000/5query_72 Saltatio Mortis-Manufactum II-Skudrinka.mp3 4.9 sec 536 raw hashes as ../temp/72 Saltatio Mortis-Manufactum II-Skudrinka.mp3 at   28.0 s with    54 of    87 common hashes at rank  1
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.624 x RT
+Fri Apr 26 02:52:15 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:52:18 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_73 Saltatio Mortis-Manufactum II-Equinox.mp3 of 4.714 s to 372 hashes
+Matched querries/pitchAdjust5/20000/5query_73 Saltatio Mortis-Manufactum II-Equinox.mp3 4.7 sec 372 raw hashes as ../temp/73 Saltatio Mortis-Manufactum II-Equinox.mp3 at   90.0 s with    57 of   132 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.8 s sec = 0.767 x RT
+Fri Apr 26 02:52:20 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:52:23 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_74 Saltatio Mortis-Manufactum II-Ali Ben.mp3 of 4.551 s to 387 hashes
+Matched querries/pitchAdjust5/20000/5query_74 Saltatio Mortis-Manufactum II-Ali Ben.mp3 4.6 sec 387 raw hashes as ../temp/74 Saltatio Mortis-Manufactum II-Ali Ben.mp3 at   46.0 s with    58 of    88 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.629 x RT
+Fri Apr 26 02:52:24 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:52:27 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_75 Saltatio Mortis-Manufactum II-Le Corsaire.mp3 of 4.876 s to 336 hashes
+Matched querries/pitchAdjust5/20000/5query_75 Saltatio Mortis-Manufactum II-Le Corsaire.mp3 4.9 sec 336 raw hashes as ../temp/75 Saltatio Mortis-Manufactum II-Le Corsaire.mp3 at  106.0 s with    24 of    32 common hashes at rank  1
+Processed 1 files (5.0 s total dur) in 3.4 s sec = 0.681 x RT
+Fri Apr 26 02:52:28 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:52:31 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_83 Santiano-Bis ans Ende der Welt-Der Wind ruft meinen Namen.mp3 of 4.783 s to 417 hashes
+Matched querries/pitchAdjust5/20000/5query_83 Santiano-Bis ans Ende der Welt-Der Wind ruft meinen Namen.mp3 4.8 sec 417 raw hashes as ../temp/83 Santiano-Bis ans Ende der Welt-Der Wind ruft meinen Namen.mp3 at  102.0 s with    41 of    88 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.8 s sec = 0.567 x RT
+Fri Apr 26 02:52:32 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:52:35 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_85 Santiano-Bis ans Ende der Welt-Auf nach Californio.mp3 of 4.760 s to 446 hashes
+Matched querries/pitchAdjust5/20000/5query_85 Santiano-Bis ans Ende der Welt-Auf nach Californio.mp3 4.8 sec 446 raw hashes as ../temp/85 Santiano-Bis ans Ende der Welt-Auf nach Californio.mp3 at   82.0 s with    47 of   901 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.7 s sec = 0.542 x RT
+Fri Apr 26 02:52:36 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:52:39 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_87 Santiano-Bis ans Ende der Welt-Irish Rover.mp3 of 4.876 s to 467 hashes
+Matched querries/pitchAdjust5/20000/5query_87 Santiano-Bis ans Ende der Welt-Irish Rover.mp3 4.9 sec 467 raw hashes as ../temp/87 Santiano-Bis ans Ende der Welt-Irish Rover.mp3 at   84.0 s with    48 of   773 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.625 x RT
+Fri Apr 26 02:52:40 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:52:43 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_88 Santiano-Bis ans Ende der Welt-Land in Sicht.mp3 of 4.807 s to 392 hashes
+Matched querries/pitchAdjust5/20000/5query_88 Santiano-Bis ans Ende der Welt-Land in Sicht.mp3 4.8 sec 392 raw hashes as ../temp/88 Santiano-Bis ans Ende der Welt-Land in Sicht.mp3 at  110.0 s with    58 of   795 common hashes at rank  1
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.616 x RT
+Fri Apr 26 02:52:44 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:52:47 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_aAirial - Wanderings - 01 Towards New Horizons.mp3 of 4.505 s to 90 hashes
+Matched querries/pitchAdjust5/20000/5query_aAirial - Wanderings - 01 Towards New Horizons.mp3 4.5 sec 90 raw hashes as ../temp/aAirial - Wanderings - 01 Towards New Horizons.mp3 at  152.0 s with    14 of   149 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.3 s sec = 0.665 x RT
+Fri Apr 26 02:52:48 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:52:51 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_aAirial - Wanderings - 02 Where.mp3 of 3.901 s to 102 hashes
+NOMATCH querries/pitchAdjust5/20000/5query_aAirial - Wanderings - 02 Where.mp3 3.9 sec 102 raw hashes
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.574 x RT
+Fri Apr 26 02:52:52 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:52:56 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_aAirial - Wanderings - 05 Child of the Universe (with Hanna).mp3 of 3.622 s to 41 hashes
+NOMATCH querries/pitchAdjust5/20000/5query_aAirial - Wanderings - 05 Child of the Universe (with Hanna).mp3 3.6 sec 41 raw hashes
+Processed 1 files (5.0 s total dur) in 4.0 s sec = 0.801 x RT
+Fri Apr 26 02:52:58 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:53:01 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_aAirial - Wanderings - 06 Au Gré des Vagues.mp3 of 4.690 s to 166 hashes
+Matched querries/pitchAdjust5/20000/5query_aAirial - Wanderings - 06 Au Gré des Vagues.mp3 4.7 sec 166 raw hashes as ../temp/aAirial - Wanderings - 06 Au Gré des Vagues.mp3 at  199.0 s with    23 of   288 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.2 s sec = 0.646 x RT
+Fri Apr 26 02:53:02 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:53:05 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_aAirial - Wanderings - 07 Wanderings.mp3 of 4.528 s to 139 hashes
+Matched querries/pitchAdjust5/20000/5query_aAirial - Wanderings - 07 Wanderings.mp3 4.5 sec 139 raw hashes as ../temp/aAirial - Wanderings - 07 Wanderings.mp3 at   90.0 s with    15 of    98 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.8 s sec = 0.555 x RT
+Fri Apr 26 02:53:06 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:53:09 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_aAirial - Wanderings - 09 A Silence is Worth a Thousand Thoughts.mp3 of 4.690 s to 88 hashes
+Matched querries/pitchAdjust5/20000/5query_aAirial - Wanderings - 09 A Silence is Worth a Thousand Thoughts.mp3 4.7 sec 88 raw hashes as ../temp/aAirial - Wanderings - 09 A Silence is Worth a Thousand Thoughts.mp3 at  106.0 s with     6 of    42 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.574 x RT
+Fri Apr 26 02:53:10 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:53:13 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_aAirial - Wanderings - 11 Let Go.mp3 of 4.853 s to 96 hashes
+NOMATCH querries/pitchAdjust5/20000/5query_aAirial - Wanderings - 11 Let Go.mp3 4.9 sec 96 raw hashes
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.583 x RT
+Fri Apr 26 02:53:14 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:53:17 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_aAirial - Wanderings - 14 Wanderings (4T Thieves Reconstruction).mp3 of 4.853 s to 249 hashes
+NOMATCH querries/pitchAdjust5/20000/5query_aAirial - Wanderings - 14 Wanderings (4T Thieves Reconstruction).mp3 4.9 sec 249 raw hashes
+Processed 1 files (5.0 s total dur) in 3.2 s sec = 0.631 x RT
+Fri Apr 26 02:53:18 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:53:21 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_aAirial - Wanderings - 16 Wanderings (DaoLogic Remix).mp3 of 4.853 s to 124 hashes
+Matched querries/pitchAdjust5/20000/5query_aAirial - Wanderings - 16 Wanderings (DaoLogic Remix).mp3 4.9 sec 124 raw hashes as ../temp/aAirial - Wanderings - 16 Wanderings (DaoLogic Remix).mp3 at   97.0 s with    11 of    48 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.578 x RT
+Fri Apr 26 02:53:22 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:53:25 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_Alexander Ehlers - Doomed.mp3 of 4.807 s to 514 hashes
+Matched querries/pitchAdjust5/20000/5query_Alexander Ehlers - Doomed.mp3 4.8 sec 514 raw hashes as ../temp/Alexander Ehlers - Doomed.mp3 at   74.0 s with    13 of    44 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.582 x RT
+Fri Apr 26 02:53:26 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:53:29 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_Alexander Ehlers - Flags.mp3 of 4.690 s to 344 hashes
+Matched querries/pitchAdjust5/20000/5query_Alexander Ehlers - Flags.mp3 4.7 sec 344 raw hashes as ../temp/Alexander Ehlers - Flags.mp3 at   35.0 s with    33 of   113 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.6 s sec = 0.520 x RT
+Fri Apr 26 02:53:30 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:53:33 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_Alexander Ehlers - Great mission.mp3 of 4.528 s to 266 hashes
+Matched querries/pitchAdjust5/20000/5query_Alexander Ehlers - Great mission.mp3 4.5 sec 266 raw hashes as ../temp/Alexander Ehlers - Great mission.mp3 at   49.0 s with    11 of    44 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.600 x RT
+Fri Apr 26 02:53:34 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:53:36 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_Alexander Ehlers - Twists.mp3 of 4.551 s to 211 hashes
+Matched querries/pitchAdjust5/20000/5query_Alexander Ehlers - Twists.mp3 4.6 sec 211 raw hashes as ../temp/Alexander Ehlers - Twists.mp3 at   99.0 s with    26 of    34 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.573 x RT
+Fri Apr 26 02:53:37 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:53:40 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_Alexander Ehlers - Waking the devil.mp3 of 4.644 s to 165 hashes
+Matched querries/pitchAdjust5/20000/5query_Alexander Ehlers - Waking the devil.mp3 4.6 sec 165 raw hashes as ../temp/Alexander Ehlers - Waking the devil.mp3 at   54.0 s with     9 of    32 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.585 x RT
+Fri Apr 26 02:53:41 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:53:44 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_Alexander Ehlers - Warped.mp3 of 4.598 s to 259 hashes
+Matched querries/pitchAdjust5/20000/5query_Alexander Ehlers - Warped.mp3 4.6 sec 259 raw hashes as ../temp/Alexander Ehlers - Warped.mp3 at   50.0 s with    26 of    71 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.624 x RT
+Fri Apr 26 02:53:45 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:53:48 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_Alternarama-Destierro-10-Destierro_64kb.mp3 of 4.946 s to 195 hashes
+Matched querries/pitchAdjust5/20000/5query_Alternarama-Destierro-10-Destierro_64kb.mp3 4.9 sec 195 raw hashes as ../temp/Alternarama-Destierro-10-Destierro_64kb.mp3 at  137.0 s with    25 of   137 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.629 x RT
+Fri Apr 26 02:53:49 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:53:52 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_Alternarama-Destierro-1-Soy-feliz_64kb.mp3 of 4.505 s to 450 hashes
+Matched querries/pitchAdjust5/20000/5query_Alternarama-Destierro-1-Soy-feliz_64kb.mp3 4.5 sec 450 raw hashes as ../temp/Alternarama-Destierro-1-Soy-feliz_64kb.mp3 at  142.0 s with    22 of    29 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.8 s sec = 0.567 x RT
+Fri Apr 26 02:53:53 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:53:56 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_Alternarama-Destierro-5-Vista-panoramica_64kb.mp3 of 4.783 s to 378 hashes
+Matched querries/pitchAdjust5/20000/5query_Alternarama-Destierro-5-Vista-panoramica_64kb.mp3 4.8 sec 378 raw hashes as ../temp/Alternarama-Destierro-5-Vista-panoramica_64kb.mp3 at  113.0 s with    17 of   256 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.8 s sec = 0.564 x RT
+Fri Apr 26 02:53:57 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:54:00 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_Alternarama-Destierro-7-Mil-razones_64kb.mp3 of 4.923 s to 311 hashes
+Matched querries/pitchAdjust5/20000/5query_Alternarama-Destierro-7-Mil-razones_64kb.mp3 4.9 sec 311 raw hashes as ../temp/Alternarama-Destierro-7-Mil-razones_64kb.mp3 at   20.0 s with    32 of    34 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.576 x RT
+Fri Apr 26 02:54:01 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:54:04 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_BaseAfterBase.mp3 of 4.923 s to 634 hashes
+Matched querries/pitchAdjust5/20000/5query_BaseAfterBase.mp3 4.9 sec 634 raw hashes as ../temp/BaseAfterBase.mp3 at   23.0 s with    42 of   118 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.8 s sec = 0.555 x RT
+Fri Apr 26 02:54:05 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:54:07 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_bensound-acousticbreeze.mp3 of 4.876 s to 422 hashes
+Matched querries/pitchAdjust5/20000/5query_bensound-acousticbreeze.mp3 4.9 sec 422 raw hashes as ../temp/bensound-acousticbreeze.mp3 at  105.0 s with    25 of    55 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.8 s sec = 0.559 x RT
+Fri Apr 26 02:54:08 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:54:11 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_bensound-actionable.mp3 of 4.899 s to 328 hashes
+Matched querries/pitchAdjust5/20000/5query_bensound-actionable.mp3 4.9 sec 328 raw hashes as ../temp/bensound-actionable.mp3 at   71.0 s with    31 of   205 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.8 s sec = 0.558 x RT
+Fri Apr 26 02:54:12 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:54:16 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_bensound-adaytoremember.mp3 of 4.365 s to 266 hashes
+Matched querries/pitchAdjust5/20000/5query_bensound-adaytoremember.mp3 4.4 sec 266 raw hashes as ../temp/bensound-adaytoremember.mp3 at   51.0 s with    21 of    87 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.4 s sec = 0.688 x RT
+Fri Apr 26 02:54:17 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:54:19 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_bensound-birthofahero.mp3 of 4.760 s to 184 hashes
+NOMATCH querries/pitchAdjust5/20000/5query_bensound-birthofahero.mp3 4.8 sec 184 raw hashes
+Processed 1 files (5.0 s total dur) in 2.6 s sec = 0.528 x RT
+Fri Apr 26 02:54:20 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:54:23 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_bensound-clearday.mp3 of 4.156 s to 314 hashes
+Matched querries/pitchAdjust5/20000/5query_bensound-clearday.mp3 4.2 sec 314 raw hashes as ../temp/bensound-clearday.mp3 at   43.0 s with    27 of    97 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.8 s sec = 0.558 x RT
+Fri Apr 26 02:54:24 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:54:27 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_bensound-creativeminds.mp3 of 4.714 s to 345 hashes
+Matched querries/pitchAdjust5/20000/5query_bensound-creativeminds.mp3 4.7 sec 345 raw hashes as ../temp/bensound-creativeminds.mp3 at   28.0 s with    33 of    96 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.8 s sec = 0.564 x RT
+Fri Apr 26 02:54:28 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:54:30 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_bensound-creepy.mp3 of 4.807 s to 463 hashes
+Matched querries/pitchAdjust5/20000/5query_bensound-creepy.mp3 4.8 sec 463 raw hashes as ../temp/bensound-creepy.mp3 at  135.0 s with    88 of   721 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.8 s sec = 0.560 x RT
+Fri Apr 26 02:54:31 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:54:34 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_bensound-cute.mp3 of 4.180 s to 195 hashes
+Matched querries/pitchAdjust5/20000/5query_bensound-cute.mp3 4.2 sec 195 raw hashes as ../temp/bensound-cute.mp3 at  130.0 s with    24 of   218 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.6 s sec = 0.520 x RT
+Fri Apr 26 02:54:35 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:54:38 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_bensound-dance.mp3 of 4.737 s to 505 hashes
+Matched querries/pitchAdjust5/20000/5query_bensound-dance.mp3 4.7 sec 505 raw hashes as ../temp/bensound-dance.mp3 at   58.0 s with    56 of   689 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.576 x RT
+Fri Apr 26 02:54:39 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:54:42 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_bensound-downtown.mp3 of 4.365 s to 410 hashes
+Matched querries/pitchAdjust5/20000/5query_bensound-downtown.mp3 4.4 sec 410 raw hashes as ../temp/bensound-downtown.mp3 at   42.0 s with    36 of   313 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.578 x RT
+Fri Apr 26 02:54:43 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:54:45 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_bensound-dreams.mp3 of 4.807 s to 555 hashes
+Matched querries/pitchAdjust5/20000/5query_bensound-dreams.mp3 4.8 sec 555 raw hashes as ../temp/bensound-dreams.mp3 at   78.0 s with    24 of   643 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.571 x RT
+Fri Apr 26 02:54:46 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:54:49 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_bensound-endlessmotion.mp3 of 4.667 s to 361 hashes
+Matched querries/pitchAdjust5/20000/5query_bensound-endlessmotion.mp3 4.7 sec 361 raw hashes as ../temp/bensound-endlessmotion.mp3 at   42.0 s with    29 of   121 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.580 x RT
+Fri Apr 26 02:54:50 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:54:53 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_bensound-enigmatic.mp3 of 3.901 s to 90 hashes
+Matched querries/pitchAdjust5/20000/5query_bensound-enigmatic.mp3 3.9 sec 90 raw hashes as ../temp/bensound-enigmatic.mp3 at   23.0 s with    10 of   113 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.572 x RT
+Fri Apr 26 02:54:54 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:54:57 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_bensound-evolution.mp3 of 4.899 s to 319 hashes
+Matched querries/pitchAdjust5/20000/5query_bensound-evolution.mp3 4.9 sec 319 raw hashes as ../temp/bensound-evolution.mp3 at  101.0 s with    18 of   154 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.6 s sec = 0.521 x RT
+Fri Apr 26 02:54:58 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:55:00 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_bensound-funday.mp3 of 4.760 s to 548 hashes
+Matched querries/pitchAdjust5/20000/5query_bensound-funday.mp3 4.8 sec 548 raw hashes as ../temp/bensound-funday.mp3 at   71.0 s with    27 of   117 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.574 x RT
+Fri Apr 26 02:55:01 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:55:04 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_bensound-goinghigher.mp3 of 4.435 s to 183 hashes
+Matched querries/pitchAdjust5/20000/5query_bensound-goinghigher.mp3 4.4 sec 183 raw hashes as ../temp/bensound-goinghigher.mp3 at   28.0 s with    19 of   164 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.597 x RT
+Fri Apr 26 02:55:05 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:55:08 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_bensound-happiness.mp3 of 4.783 s to 348 hashes
+Matched querries/pitchAdjust5/20000/5query_bensound-happiness.mp3 4.8 sec 348 raw hashes as ../temp/bensound-happiness.mp3 at  141.0 s with    27 of   120 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.8 s sec = 0.553 x RT
+Fri Apr 26 02:55:09 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:55:12 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_bensound-hipjazz.mp3 of 4.899 s to 552 hashes
+Matched querries/pitchAdjust5/20000/5query_bensound-hipjazz.mp3 4.9 sec 552 raw hashes as ../temp/bensound-hipjazz.mp3 at   93.0 s with    57 of  1386 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.8 s sec = 0.570 x RT
+Fri Apr 26 02:55:13 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:55:16 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_bensound-house.mp3 of 4.621 s to 536 hashes
+Matched querries/pitchAdjust5/20000/5query_bensound-house.mp3 4.6 sec 536 raw hashes as ../temp/bensound-house.mp3 at   29.0 s with    25 of   163 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.571 x RT
+Fri Apr 26 02:55:16 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:55:19 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_bensound-india.mp3 of 4.760 s to 275 hashes
+Matched querries/pitchAdjust5/20000/5query_bensound-india.mp3 4.8 sec 275 raw hashes as ../temp/bensound-india.mp3 at  164.0 s with    29 of   214 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.573 x RT
+Fri Apr 26 02:55:20 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:55:23 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_bensound-inspire.mp3 of 4.853 s to 242 hashes
+Matched querries/pitchAdjust5/20000/5query_bensound-inspire.mp3 4.9 sec 242 raw hashes as ../temp/bensound-inspire.mp3 at   28.0 s with    17 of    65 common hashes at rank  1
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.615 x RT
+Fri Apr 26 02:55:24 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:55:27 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_bensound-jazzcomedy.mp3 of 4.528 s to 132 hashes
+Matched querries/pitchAdjust5/20000/5query_bensound-jazzcomedy.mp3 4.5 sec 132 raw hashes as ../temp/bensound-jazzcomedy.mp3 at   86.0 s with    31 of    33 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.7 s sec = 0.538 x RT
+Fri Apr 26 02:55:28 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:55:30 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_bensound-littleidea.mp3 of 4.644 s to 303 hashes
+Matched querries/pitchAdjust5/20000/5query_bensound-littleidea.mp3 4.6 sec 303 raw hashes as ../temp/bensound-littleidea.mp3 at   97.0 s with    47 of   234 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.7 s sec = 0.541 x RT
+Fri Apr 26 02:55:31 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:55:34 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_bensound-onceagain.mp3 of 3.831 s to 35 hashes
+NOMATCH querries/pitchAdjust5/20000/5query_bensound-onceagain.mp3 3.8 sec 35 raw hashes
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.594 x RT
+Fri Apr 26 02:55:35 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:55:39 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_bensound-perception.mp3 of 4.644 s to 113 hashes
+Matched querries/pitchAdjust5/20000/5query_bensound-perception.mp3 4.6 sec 113 raw hashes as ../temp/bensound-perception.mp3 at   75.0 s with    14 of    22 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.3 s sec = 0.661 x RT
+Fri Apr 26 02:55:40 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:55:43 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_bensound-photoalbum.mp3 of 4.923 s to 205 hashes
+Matched querries/pitchAdjust5/20000/5query_bensound-photoalbum.mp3 4.9 sec 205 raw hashes as ../temp/bensound-photoalbum.mp3 at  124.0 s with    18 of    58 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.601 x RT
+Fri Apr 26 02:55:43 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:55:46 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_bensound-pianomoment.mp3 of 4.737 s to 92 hashes
+Matched querries/pitchAdjust5/20000/5query_bensound-pianomoment.mp3 4.7 sec 92 raw hashes as ../temp/bensound-pianomoment.mp3 at   40.0 s with    15 of    19 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.605 x RT
+Fri Apr 26 02:55:47 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:55:50 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_bensound-popdance.mp3 of 4.899 s to 331 hashes
+Matched querries/pitchAdjust5/20000/5query_bensound-popdance.mp3 4.9 sec 331 raw hashes as ../temp/bensound-popdance.mp3 at   95.0 s with    82 of   567 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.588 x RT
+Fri Apr 26 02:55:51 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:55:54 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_bensound-psychedelic.mp3 of 4.899 s to 201 hashes
+Matched querries/pitchAdjust5/20000/5query_bensound-psychedelic.mp3 4.9 sec 201 raw hashes as ../temp/bensound-psychedelic.mp3 at   32.0 s with    49 of   234 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.7 s sec = 0.549 x RT
+Fri Apr 26 02:55:55 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:55:58 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_bensound-relaxing.mp3 of 4.807 s to 91 hashes
+NOMATCH querries/pitchAdjust5/20000/5query_bensound-relaxing.mp3 4.8 sec 91 raw hashes
+Processed 1 files (5.0 s total dur) in 3.2 s sec = 0.638 x RT
+Fri Apr 26 02:55:59 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:56:02 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_bensound-romantic.mp3 of 4.876 s to 85 hashes
+Matched querries/pitchAdjust5/20000/5query_bensound-romantic.mp3 4.9 sec 85 raw hashes as ../temp/bensound-romantic.mp3 at   20.0 s with    25 of    31 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.588 x RT
+Fri Apr 26 02:56:03 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:56:06 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_bensound-sadday.mp3 of 4.156 s to 30 hashes
+NOMATCH querries/pitchAdjust5/20000/5query_bensound-sadday.mp3 4.2 sec 30 raw hashes
+Processed 1 files (5.0 s total dur) in 3.2 s sec = 0.630 x RT
+Fri Apr 26 02:56:07 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:56:09 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_bensound-slowmotion.mp3 of 3.855 s to 88 hashes
+Matched querries/pitchAdjust5/20000/5query_bensound-slowmotion.mp3 3.9 sec 88 raw hashes as ../temp/bensound-slowmotion.mp3 at   60.0 s with    14 of    22 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.7 s sec = 0.543 x RT
+Fri Apr 26 02:56:10 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:56:13 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_bensound-smallguitar.mp3 of 4.737 s to 560 hashes
+Matched querries/pitchAdjust5/20000/5query_bensound-smallguitar.mp3 4.7 sec 560 raw hashes as ../temp/bensound-smallguitar.mp3 at  107.0 s with    30 of   129 common hashes at rank  1
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.593 x RT
+Fri Apr 26 02:56:14 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:56:17 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_bensound-smile.mp3 of 4.923 s to 325 hashes
+Matched querries/pitchAdjust5/20000/5query_bensound-smile.mp3 4.9 sec 325 raw hashes as ../temp/bensound-smile.mp3 at  104.0 s with    14 of    56 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.576 x RT
+Fri Apr 26 02:56:18 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:56:21 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_bensound-summer.mp3 of 4.923 s to 304 hashes
+Matched querries/pitchAdjust5/20000/5query_bensound-summer.mp3 4.9 sec 304 raw hashes as ../temp/bensound-summer.mp3 at   26.6 s with    23 of   195 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.628 x RT
+Fri Apr 26 02:56:22 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:56:25 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_bensound-tenderness.mp3 of 4.574 s to 123 hashes
+Matched querries/pitchAdjust5/20000/5query_bensound-tenderness.mp3 4.6 sec 123 raw hashes as ../temp/bensound-tenderness.mp3 at   31.0 s with    18 of   110 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.7 s sec = 0.547 x RT
+Fri Apr 26 02:56:26 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:56:29 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_bensound-theduel.mp3 of 4.876 s to 383 hashes
+Matched querries/pitchAdjust5/20000/5query_bensound-theduel.mp3 4.9 sec 383 raw hashes as ../temp/bensound-theduel.mp3 at   67.0 s with    66 of   130 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.573 x RT
+Fri Apr 26 02:56:30 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:56:32 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_bensound-thejazzpiano.mp3 of 4.807 s to 183 hashes
+Matched querries/pitchAdjust5/20000/5query_bensound-thejazzpiano.mp3 4.8 sec 183 raw hashes as ../temp/bensound-thejazzpiano.mp3 at   71.0 s with    14 of    21 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.7 s sec = 0.549 x RT
+Fri Apr 26 02:56:33 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:56:36 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_bensound-thelounge.mp3 of 4.923 s to 292 hashes
+Matched querries/pitchAdjust5/20000/5query_bensound-thelounge.mp3 4.9 sec 292 raw hashes as ../temp/bensound-thelounge.mp3 at   95.7 s with    28 of   770 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.621 x RT
+Fri Apr 26 02:56:37 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:56:40 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_bensound-tomorrow.mp3 of 4.319 s to 51 hashes
+Matched querries/pitchAdjust5/20000/5query_bensound-tomorrow.mp3 4.3 sec 51 raw hashes as ../temp/bensound-tomorrow.mp3 at   87.0 s with    15 of    34 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.8 s sec = 0.555 x RT
+Fri Apr 26 02:56:41 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:56:44 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_bensound-ukulele.mp3 of 4.389 s to 202 hashes
+Matched querries/pitchAdjust5/20000/5query_bensound-ukulele.mp3 4.4 sec 202 raw hashes as ../temp/bensound-ukulele.mp3 at   25.0 s with    13 of    65 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.2 s sec = 0.646 x RT
+Fri Apr 26 02:56:45 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:56:48 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_BlastProcessing.mp3 of 4.830 s to 569 hashes
+Matched querries/pitchAdjust5/20000/5query_BlastProcessing.mp3 4.8 sec 569 raw hashes as ../temp/BlastProcessing.mp3 at   33.0 s with    91 of   138 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.7 s sec = 0.545 x RT
+Fri Apr 26 02:56:49 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:56:52 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_Can_t Hold Us.mp3 of 4.807 s to 453 hashes
+Matched querries/pitchAdjust5/20000/5query_Can_t Hold Us.mp3 4.8 sec 453 raw hashes as ../temp/Can_t Hold Us.mp3 at   65.0 s with    50 of    53 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.590 x RT
+Fri Apr 26 02:56:52 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:56:55 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_Clubstep.mp3 of 4.876 s to 588 hashes
+Matched querries/pitchAdjust5/20000/5query_Clubstep.mp3 4.9 sec 588 raw hashes as ../temp/Clubstep.mp3 at   40.0 s with    23 of   234 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.7 s sec = 0.549 x RT
+Fri Apr 26 02:56:56 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:56:59 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_Clutterfunk.mp3 of 4.574 s to 425 hashes
+Matched querries/pitchAdjust5/20000/5query_Clutterfunk.mp3 4.6 sec 425 raw hashes as ../temp/Clutterfunk.mp3 at   42.0 s with    17 of    29 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.7 s sec = 0.547 x RT
+Fri Apr 26 02:57:00 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:57:03 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_Cycles.mp3 of 4.807 s to 548 hashes
+Matched querries/pitchAdjust5/20000/5query_Cycles.mp3 4.8 sec 548 raw hashes as ../temp/Cycles.mp3 at   32.0 s with    65 of   133 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.577 x RT
+Fri Apr 26 02:57:04 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:57:07 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_Electrodynamix.mp3 of 4.853 s to 454 hashes
+Matched querries/pitchAdjust5/20000/5query_Electrodynamix.mp3 4.9 sec 454 raw hashes as ../temp/Electrodynamix.mp3 at   35.0 s with    26 of   236 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.2 s sec = 0.634 x RT
+Fri Apr 26 02:57:08 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:57:12 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_Electroman.mp3 of 4.737 s to 795 hashes
+Matched querries/pitchAdjust5/20000/5query_Electroman.mp3 4.7 sec 795 raw hashes as ../temp/Electroman.mp3 at   47.0 s with    56 of   439 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 4.3 s sec = 0.865 x RT
+Fri Apr 26 02:57:13 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:57:16 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_HexagonForce.mp3 of 4.807 s to 573 hashes
+Matched querries/pitchAdjust5/20000/5query_HexagonForce.mp3 4.8 sec 573 raw hashes as ../temp/HexagonForce.mp3 at   42.0 s with    35 of    94 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.615 x RT
+Fri Apr 26 02:57:17 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:57:21 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_I Need Your Love.mp3 of 4.853 s to 408 hashes
+Matched querries/pitchAdjust5/20000/5query_I Need Your Love.mp3 4.9 sec 408 raw hashes as ../temp/I Need Your Love.mp3 at   24.0 s with    58 of    88 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.3 s sec = 0.661 x RT
+Fri Apr 26 02:57:22 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:57:25 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_Juhani Junkala [Retro Game Music Pack] Level 2.wav of 4.830 s to 511 hashes
+Matched querries/pitchAdjust5/20000/5query_Juhani Junkala [Retro Game Music Pack] Level 2.wav 4.8 sec 511 raw hashes as ../temp/Juhani Junkala [Retro Game Music Pack] Level 2.wav at   32.0 s with    75 of   373 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.626 x RT
+Fri Apr 26 02:57:26 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:57:29 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_Jumper.mp3 of 4.876 s to 592 hashes
+Matched querries/pitchAdjust5/20000/5query_Jumper.mp3 4.9 sec 592 raw hashes as ../temp/Jumper.mp3 at   24.0 s with    47 of   683 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.5 s sec = 0.700 x RT
+Fri Apr 26 02:57:30 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:57:34 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_Kaskade - Disarm You ft. Ilsey (Grey Remix).mp3 of 4.876 s to 396 hashes
+Matched querries/pitchAdjust5/20000/5query_Kaskade - Disarm You ft. Ilsey (Grey Remix).mp3 4.9 sec 396 raw hashes as ../temp/Kaskade - Disarm You ft. Ilsey (Grey Remix).mp3 at   54.0 s with    23 of    65 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.4 s sec = 0.682 x RT
+Fri Apr 26 02:57:35 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:57:38 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_La La Latch.mp3 of 4.807 s to 484 hashes
+Matched querries/pitchAdjust5/20000/5query_La La Latch.mp3 4.8 sec 484 raw hashes as ../temp/La La Latch.mp3 at  146.0 s with    56 of    81 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.7 s sec = 0.740 x RT
+Fri Apr 26 02:57:39 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:57:43 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_Love Again.mp3 of 4.621 s to 404 hashes
+Matched querries/pitchAdjust5/20000/5query_Love Again.mp3 4.6 sec 404 raw hashes as ../temp/Love Again.mp3 at   54.0 s with    49 of    71 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.4 s sec = 0.683 x RT
+Fri Apr 26 02:57:44 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:57:47 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_Michael Feiner – Mantra (Axwell Cut).mp3 of 4.737 s to 549 hashes
+Matched querries/pitchAdjust5/20000/5query_Michael Feiner – Mantra (Axwell Cut).mp3 4.7 sec 549 raw hashes as ../temp/Michael Feiner – Mantra (Axwell Cut).mp3 at   35.0 s with    53 of   605 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.586 x RT
+Fri Apr 26 02:57:48 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:57:51 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_Murdock - In Touch (feat. Veela) (Hyukari Remix).mp3 of 4.598 s to 622 hashes
+Matched querries/pitchAdjust5/20000/5query_Murdock - In Touch (feat. Veela) (Hyukari Remix).mp3 4.6 sec 622 raw hashes as ../temp/Murdock - In Touch (feat. Veela) (Hyukari Remix).mp3 at   84.0 s with    49 of   562 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.7 s sec = 0.740 x RT
+Fri Apr 26 02:57:52 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:57:56 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_Natural Disaster.mp3 of 4.923 s to 329 hashes
+Matched querries/pitchAdjust5/20000/5query_Natural Disaster.mp3 4.9 sec 329 raw hashes as ../temp/Natural Disaster.mp3 at   61.0 s with    59 of   147 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.5 s sec = 0.691 x RT
+Fri Apr 26 02:57:57 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:58:00 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_Ove Melaa - High Stakes,Low Chances.mp3 of 4.342 s to 363 hashes
+Matched querries/pitchAdjust5/20000/5query_Ove Melaa - High Stakes,Low Chances.mp3 4.3 sec 363 raw hashes as ../temp/Ove Melaa - High Stakes,Low Chances.mp3 at   32.0 s with    32 of   147 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.2 s sec = 0.637 x RT
+Fri Apr 26 02:58:01 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:58:04 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_Papaoutai.mp3 of 4.714 s to 538 hashes
+Matched querries/pitchAdjust5/20000/5query_Papaoutai.mp3 4.7 sec 538 raw hashes as ../temp/Papaoutai.mp3 at   68.0 s with    54 of   127 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.615 x RT
+Fri Apr 26 02:58:05 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:58:08 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_Polargeist.mp3 of 4.783 s to 520 hashes
+Matched querries/pitchAdjust5/20000/5query_Polargeist.mp3 4.8 sec 520 raw hashes as ../temp/Polargeist.mp3 at   56.0 s with    52 of    74 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.627 x RT
+Fri Apr 26 02:58:09 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:58:13 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_R3hab _ Ciara - Get Up (KSHMR Remix).mp3 of 4.690 s to 738 hashes
+Matched querries/pitchAdjust5/20000/5query_R3hab _ Ciara - Get Up (KSHMR Remix).mp3 4.7 sec 738 raw hashes as ../temp/R3hab _ Ciara - Get Up (KSHMR Remix).mp3 at  111.0 s with    62 of   121 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.4 s sec = 0.687 x RT
+Fri Apr 26 02:58:14 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:58:17 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_Rachel Costanzo - Comfortable (BlueDrak3 Remix).mp3 of 4.783 s to 306 hashes
+Matched querries/pitchAdjust5/20000/5query_Rachel Costanzo - Comfortable (BlueDrak3 Remix).mp3 4.8 sec 306 raw hashes as ../temp/Rachel Costanzo - Comfortable (BlueDrak3 Remix).mp3 at   98.0 s with    21 of    97 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.620 x RT
+Fri Apr 26 02:58:18 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:58:21 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_Rather Be.mp3 of 4.876 s to 495 hashes
+Matched querries/pitchAdjust5/20000/5query_Rather Be.mp3 4.9 sec 495 raw hashes as ../temp/Rather Be.mp3 at  132.0 s with    71 of   198 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.611 x RT
+Fri Apr 26 02:58:22 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:58:25 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_Run To You.mp3 of 3.483 s to 274 hashes
+Matched querries/pitchAdjust5/20000/5query_Run To You.mp3 3.5 sec 274 raw hashes as ../temp/Run To You.mp3 at   44.0 s with    44 of    44 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.4 s sec = 0.685 x RT
+Fri Apr 26 02:58:26 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:58:29 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_Tarana - A FIRE OF FLOWERS GROWS AROUND US - 02 Kerherwa.mp3 of 4.574 s to 374 hashes
+Matched querries/pitchAdjust5/20000/5query_Tarana - A FIRE OF FLOWERS GROWS AROUND US - 02 Kerherwa.mp3 4.6 sec 374 raw hashes as ../temp/Tarana - A FIRE OF FLOWERS GROWS AROUND US - 02 Kerherwa.mp3 at  130.0 s with    32 of    58 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.602 x RT
+Fri Apr 26 02:58:30 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:58:33 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_Tarana - A FIRE OF FLOWERS GROWS AROUND US - 03 That Tweaky.mp3 of 4.760 s to 351 hashes
+Matched querries/pitchAdjust5/20000/5query_Tarana - A FIRE OF FLOWERS GROWS AROUND US - 03 That Tweaky.mp3 4.8 sec 351 raw hashes as ../temp/Tarana - A FIRE OF FLOWERS GROWS AROUND US - 03 That Tweaky.mp3 at   88.0 s with    13 of    30 common hashes at rank  3
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.571 x RT
+Fri Apr 26 02:58:34 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:58:37 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_Tarana - A FIRE OF FLOWERS GROWS AROUND US - 04 Batik.mp3 of 4.667 s to 329 hashes
+Matched querries/pitchAdjust5/20000/5query_Tarana - A FIRE OF FLOWERS GROWS AROUND US - 04 Batik.mp3 4.7 sec 329 raw hashes as ../temp/Tarana - A FIRE OF FLOWERS GROWS AROUND US - 04 Batik.mp3 at   92.0 s with    40 of   233 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.629 x RT
+Fri Apr 26 02:58:38 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:58:41 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_Tarana - A FIRE OF FLOWERS GROWS AROUND US - 06 Tehrah.mp3 of 4.180 s to 292 hashes
+Matched querries/pitchAdjust5/20000/5query_Tarana - A FIRE OF FLOWERS GROWS AROUND US - 06 Tehrah.mp3 4.2 sec 292 raw hashes as ../temp/Tarana - A FIRE OF FLOWERS GROWS AROUND US - 06 Tehrah.mp3 at   89.0 s with     8 of    14 common hashes at rank  3
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.610 x RT
+Fri Apr 26 02:58:42 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:58:45 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_TheoryOfEverything.mp3 of 4.714 s to 351 hashes
+Matched querries/pitchAdjust5/20000/5query_TheoryOfEverything.mp3 4.7 sec 351 raw hashes as ../temp/TheoryOfEverything.mp3 at   51.0 s with    22 of    67 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.582 x RT
+Fri Apr 26 02:58:46 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:58:49 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_Throttle x Earth, Wind _ Fire - September (Original Mix).mp3 of 4.899 s to 342 hashes
+Matched querries/pitchAdjust5/20000/5query_Throttle x Earth, Wind _ Fire - September (Original Mix).mp3 4.9 sec 342 raw hashes as ../temp/Throttle x Earth, Wind _ Fire - September (Original Mix).mp3 at  156.0 s with    36 of    44 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.584 x RT
+Fri Apr 26 02:58:50 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:58:53 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_TimeMachine.mp3 of 4.783 s to 489 hashes
+Matched querries/pitchAdjust5/20000/5query_TimeMachine.mp3 4.8 sec 489 raw hashes as ../temp/TimeMachine.mp3 at   50.0 s with    20 of    72 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.609 x RT
+Fri Apr 26 02:58:54 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:58:57 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_Unthunk_-_Jumblesque_-_01_Flummox.mp3 of 4.574 s to 327 hashes
+Matched querries/pitchAdjust5/20000/5query_Unthunk_-_Jumblesque_-_01_Flummox.mp3 4.6 sec 327 raw hashes as ../temp/Unthunk_-_Jumblesque_-_01_Flummox.mp3 at   47.0 s with    64 of   115 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.592 x RT
+Fri Apr 26 02:58:58 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:59:01 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_Unthunk_-_Jumblesque_-_04_Lope.mp3 of 4.087 s to 180 hashes
+Matched querries/pitchAdjust5/20000/5query_Unthunk_-_Jumblesque_-_04_Lope.mp3 4.1 sec 180 raw hashes as ../temp/Unthunk_-_Jumblesque_-_04_Lope.mp3 at   26.0 s with    34 of    37 common hashes at rank  1
+Processed 1 files (5.0 s total dur) in 2.8 s sec = 0.565 x RT
+Fri Apr 26 02:59:02 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:59:05 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_Unthunk_-_Jumblesque_-_05_Purge.mp3 of 4.899 s to 374 hashes
+Matched querries/pitchAdjust5/20000/5query_Unthunk_-_Jumblesque_-_05_Purge.mp3 4.9 sec 374 raw hashes as ../temp/Unthunk_-_Jumblesque_-_05_Purge.mp3 at   35.0 s with    65 of   565 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.598 x RT
+Fri Apr 26 02:59:06 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:59:09 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_Unthunk_-_Jumblesque_-_07_Hermetic.mp3 of 4.899 s to 206 hashes
+Matched querries/pitchAdjust5/20000/5query_Unthunk_-_Jumblesque_-_07_Hermetic.mp3 4.9 sec 206 raw hashes as ../temp/Unthunk_-_Jumblesque_-_07_Hermetic.mp3 at  161.0 s with    40 of    40 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.619 x RT
+Fri Apr 26 02:59:10 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:59:13 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_Unthunk_-_Jumblesque_-_10_Diorama.mp3 of 4.923 s to 325 hashes
+Matched querries/pitchAdjust5/20000/5query_Unthunk_-_Jumblesque_-_10_Diorama.mp3 4.9 sec 325 raw hashes as ../temp/Unthunk_-_Jumblesque_-_10_Diorama.mp3 at  130.0 s with    22 of    30 common hashes at rank  1
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.618 x RT
+Fri Apr 26 02:59:14 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:59:17 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_Until The Dawn - We Are One People (Flite Remix).mp3 of 4.412 s to 257 hashes
+Matched querries/pitchAdjust5/20000/5query_Until The Dawn - We Are One People (Flite Remix).mp3 4.4 sec 257 raw hashes as ../temp/Until The Dawn - We Are One People (Flite Remix).mp3 at  185.0 s with    18 of    45 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.575 x RT
+Fri Apr 26 02:59:18 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:59:21 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_wave018.1_antigua_-_no_more.mp3 of 4.528 s to 713 hashes
+Matched querries/pitchAdjust5/20000/5query_wave018.1_antigua_-_no_more.mp3 4.5 sec 713 raw hashes as ../temp/wave018.1_antigua_-_no_more.mp3 at   56.0 s with    31 of   450 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.8 s sec = 0.550 x RT
+Fri Apr 26 02:59:22 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:59:25 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_wave018.2_antigua_-_take_five.mp3 of 4.923 s to 337 hashes
+Matched querries/pitchAdjust5/20000/5query_wave018.2_antigua_-_take_five.mp3 4.9 sec 337 raw hashes as ../temp/wave018.2_antigua_-_take_five.mp3 at   60.0 s with    58 of   608 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.599 x RT
+Fri Apr 26 02:59:26 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:59:29 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_Wolfgang Gartner Feat Medina - Overdose (Explicit).mp3 of 4.598 s to 302 hashes
+Matched querries/pitchAdjust5/20000/5query_Wolfgang Gartner Feat Medina - Overdose (Explicit).mp3 4.6 sec 302 raw hashes as ../temp/Wolfgang Gartner Feat Medina - Overdose (Explicit).mp3 at  153.0 s with    33 of    57 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.597 x RT
+Fri Apr 26 02:59:30 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:59:32 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_xStep.mp3 of 4.760 s to 540 hashes
+Matched querries/pitchAdjust5/20000/5query_xStep.mp3 4.8 sec 540 raw hashes as ../temp/xStep.mp3 at   54.0 s with    28 of   270 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.8 s sec = 0.552 x RT
+Fri Apr 26 02:59:33 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 02:59:36 2019 Analyzed #0 querries/pitchAdjust5/20000/5query_Zedd feat. Bahari - Addicted to a Memory.mp3 of 4.783 s to 442 hashes
+Matched querries/pitchAdjust5/20000/5query_Zedd feat. Bahari - Addicted to a Memory.mp3 4.8 sec 442 raw hashes as ../temp/Zedd feat. Bahari - Addicted to a Memory.mp3 at   78.0 s with    22 of    31 common hashes at rank  1
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.581 x RT

@@ -1,0 +1,1007 @@
+Fri Apr 26 01:06:09 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:06:11 2019 Analyzed #0 querries/noisyenv5/-10/5query_01 I Want You to Know (feat. Selena Gomez).mp3 of 4.853 s to 375 hashes
+Matched querries/noisyenv5/-10/5query_01 I Want You to Know (feat. Selena Gomez).mp3 4.9 sec 375 raw hashes as ../temp/01 I Want You to Know (feat. Selena Gomez).mp3 at   22.0 s with    38 of    44 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.5 s sec = 0.507 x RT
+Fri Apr 26 01:06:12 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:06:15 2019 Analyzed #0 querries/noisyenv5/-10/5query_01 Isometric (Intro).mp3 of 4.899 s to 437 hashes
+Matched querries/noisyenv5/-10/5query_01 Isometric (Intro).mp3 4.9 sec 437 raw hashes as ../temp/01 Isometric (Intro).mp3 at   31.0 s with    56 of    59 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.8 s sec = 0.570 x RT
+Fri Apr 26 01:06:16 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:06:19 2019 Analyzed #0 querries/noisyenv5/-10/5query_01 Rosaline.mp3 of 4.644 s to 243 hashes
+NOMATCH querries/noisyenv5/-10/5query_01 Rosaline.mp3 4.6 sec 243 raw hashes
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.581 x RT
+Fri Apr 26 01:06:20 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:06:23 2019 Analyzed #0 querries/noisyenv5/-10/5query_01 San Francisco.wma of 4.528 s to 222 hashes
+Matched querries/noisyenv5/-10/5query_01 San Francisco.wma 4.5 sec 222 raw hashes as ../temp/01 San Francisco.wma at  134.9 s with    22 of    27 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.573 x RT
+Fri Apr 26 01:06:24 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:06:27 2019 Analyzed #0 querries/noisyenv5/-10/5query_01 Zieh Die Schuh Aus.mp3 of 4.923 s to 447 hashes
+Matched querries/noisyenv5/-10/5query_01 Zieh Die Schuh Aus.mp3 4.9 sec 447 raw hashes as ../temp/01 Zieh Die Schuh Aus.mp3 at   86.0 s with    50 of    55 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.615 x RT
+Fri Apr 26 01:06:29 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:06:32 2019 Analyzed #0 querries/noisyenv5/-10/5query_02 Kein Mann Für Eine Frau.mp3 of 4.899 s to 230 hashes
+Matched querries/noisyenv5/-10/5query_02 Kein Mann Für Eine Frau.mp3 4.9 sec 230 raw hashes as ../temp/02 Kein Mann Für Eine Frau.mp3 at   60.0 s with    15 of    15 common hashes at rank  2
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.613 x RT
+Fri Apr 26 01:06:32 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:06:35 2019 Analyzed #0 querries/noisyenv5/-10/5query_02 King Street.wma of 4.180 s to 158 hashes
+Matched querries/noisyenv5/-10/5query_02 King Street.wma 4.2 sec 158 raw hashes as ../temp/02 King Street.wma at   80.9 s with    11 of    11 common hashes at rank  3
+Processed 1 files (5.0 s total dur) in 2.8 s sec = 0.563 x RT
+Fri Apr 26 01:06:36 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:06:39 2019 Analyzed #0 querries/noisyenv5/-10/5query_02 Klassenfahrt.wma of 4.435 s to 437 hashes
+Matched querries/noisyenv5/-10/5query_02 Klassenfahrt.wma 4.4 sec 437 raw hashes as ../temp/02 Klassenfahrt.wma at   69.9 s with    39 of    93 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.588 x RT
+Fri Apr 26 01:06:40 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:06:44 2019 Analyzed #0 querries/noisyenv5/-10/5query_02 Tanzmädchen.mp3 of 4.807 s to 206 hashes
+Matched querries/noisyenv5/-10/5query_02 Tanzmädchen.mp3 4.8 sec 206 raw hashes as ../temp/02 Tanzmädchen.mp3 at   97.0 s with    30 of    41 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.3 s sec = 0.668 x RT
+Fri Apr 26 01:06:45 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Error reading header info from F:\KTH\IR\GroupProject\Shazam-Algorithm-noise-Test---IRProject\querries\noisyenv5\-10\5query_02 Treading Water.m4a
+Fri Apr 26 01:06:48 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:06:51 2019 Analyzed #0 querries/noisyenv5/-10/5query_02_-_Paulo_Chagas-Marco_Lucchi-Dario_Derek_Lucchi_-_Milady_of_the_Crows.mp3 of 4.574 s to 137 hashes
+Matched querries/noisyenv5/-10/5query_02_-_Paulo_Chagas-Marco_Lucchi-Dario_Derek_Lucchi_-_Milady_of_the_Crows.mp3 4.6 sec 137 raw hashes as ../temp/02_-_Paulo_Chagas-Marco_Lucchi-Dario_Derek_Lucchi_-_Milady_of_the_Crows.mp3 at   77.0 s with    14 of    15 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.614 x RT
+Fri Apr 26 01:06:52 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:06:56 2019 Analyzed #0 querries/noisyenv5/-10/5query_03 Im Flugzeug.wma of 4.946 s to 485 hashes
+Matched querries/noisyenv5/-10/5query_03 Im Flugzeug.wma 4.9 sec 485 raw hashes as ../temp/03 Im Flugzeug.wma at  111.9 s with    52 of    71 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.3 s sec = 0.661 x RT
+Fri Apr 26 01:06:57 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:07:00 2019 Analyzed #0 querries/noisyenv5/-10/5query_03 Mehr davon.mp3 of 4.923 s to 289 hashes
+Matched querries/noisyenv5/-10/5query_03 Mehr davon.mp3 4.9 sec 289 raw hashes as ../temp/03 Mehr davon.mp3 at   91.0 s with    12 of    36 common hashes at rank  4
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.614 x RT
+Fri Apr 26 01:07:01 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:07:04 2019 Analyzed #0 querries/noisyenv5/-10/5query_03 Ok.mp3 of 4.737 s to 462 hashes
+Matched querries/noisyenv5/-10/5query_03 Ok.mp3 4.7 sec 462 raw hashes as ../temp/03 Ok.mp3 at  113.0 s with    51 of   132 common hashes at rank  1
+Processed 1 files (5.0 s total dur) in 3.2 s sec = 0.631 x RT
+Fri Apr 26 01:07:05 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Error reading header info from F:\KTH\IR\GroupProject\Shazam-Algorithm-noise-Test---IRProject\querries\noisyenv5\-10\5query_03 Relax My Beloved.m4a
+Fri Apr 26 01:07:09 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:07:12 2019 Analyzed #0 querries/noisyenv5/-10/5query_03 Shooting Stars & Fairy Tales.mp3 of 4.946 s to 311 hashes
+Matched querries/noisyenv5/-10/5query_03 Shooting Stars & Fairy Tales.mp3 4.9 sec 311 raw hashes as ../temp/03 Shooting Stars & Fairy Tales.mp3 at   49.0 s with    27 of    75 common hashes at rank  3
+Processed 1 files (5.0 s total dur) in 3.3 s sec = 0.661 x RT
+Fri Apr 26 01:07:13 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:07:16 2019 Analyzed #0 querries/noisyenv5/-10/5query_03 Spielmannsliebe.mp3 of 4.667 s to 383 hashes
+Matched querries/noisyenv5/-10/5query_03 Spielmannsliebe.mp3 4.7 sec 383 raw hashes as ../temp/03 Spielmannsliebe.mp3 at   88.0 s with    34 of    37 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.618 x RT
+Fri Apr 26 01:07:17 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:07:21 2019 Analyzed #0 querries/noisyenv5/-10/5query_03 Thirteen Sad Farewells.wma of 4.737 s to 176 hashes
+Matched querries/noisyenv5/-10/5query_03 Thirteen Sad Farewells.wma 4.7 sec 176 raw hashes as ../temp/03 Thirteen Sad Farewells.wma at   38.9 s with    10 of    11 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.4 s sec = 0.676 x RT
+Fri Apr 26 01:07:22 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:07:25 2019 Analyzed #0 querries/noisyenv5/-10/5query_03_-_Patrick_Masson_-_Aulodia_Tragica_reworked.mp3 of 4.621 s to 376 hashes
+Matched querries/noisyenv5/-10/5query_03_-_Patrick_Masson_-_Aulodia_Tragica_reworked.mp3 4.6 sec 376 raw hashes as ../temp/03_-_Patrick_Masson_-_Aulodia_Tragica_reworked.mp3 at   10.0 s with     9 of   523 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.629 x RT
+Fri Apr 26 01:07:26 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:07:29 2019 Analyzed #0 querries/noisyenv5/-10/5query_04 Absinth.mp3 of 4.899 s to 336 hashes
+Matched querries/noisyenv5/-10/5query_04 Absinth.mp3 4.9 sec 336 raw hashes as ../temp/04 Absinth.mp3 at   49.0 s with    50 of    55 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.4 s sec = 0.677 x RT
+Fri Apr 26 01:07:30 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:07:33 2019 Analyzed #0 querries/noisyenv5/-10/5query_04 Box Of Colors.mp3 of 4.505 s to 267 hashes
+NOMATCH querries/noisyenv5/-10/5query_04 Box Of Colors.mp3 4.5 sec 267 raw hashes
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.604 x RT
+Fri Apr 26 01:07:34 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:07:37 2019 Analyzed #0 querries/noisyenv5/-10/5query_04 Du warst noch nie hier.mp3 of 4.899 s to 160 hashes
+Matched querries/noisyenv5/-10/5query_04 Du warst noch nie hier.mp3 4.9 sec 160 raw hashes as ../temp/04 Du warst noch nie hier.mp3 at   23.0 s with    30 of    32 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.626 x RT
+Fri Apr 26 01:07:38 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:07:42 2019 Analyzed #0 querries/noisyenv5/-10/5query_04 Ferry to Dublin.wma of 4.551 s to 104 hashes
+NOMATCH querries/noisyenv5/-10/5query_04 Ferry to Dublin.wma 4.6 sec 104 raw hashes
+Processed 1 files (5.0 s total dur) in 3.4 s sec = 0.682 x RT
+Fri Apr 26 01:07:43 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Error reading header info from F:\KTH\IR\GroupProject\Shazam-Algorithm-noise-Test---IRProject\querries\noisyenv5\-10\5query_04 Hollowness.m4a
+Fri Apr 26 01:07:46 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:07:49 2019 Analyzed #0 querries/noisyenv5/-10/5query_04 Ich Atme Ein [New Version].mp3 of 4.598 s to 403 hashes
+Matched querries/noisyenv5/-10/5query_04 Ich Atme Ein [New Version].mp3 4.6 sec 403 raw hashes as ../temp/04 Ich Atme Ein [New Version].mp3 at   48.0 s with    48 of    56 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.604 x RT
+Fri Apr 26 01:07:50 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:07:53 2019 Analyzed #0 querries/noisyenv5/-10/5query_04 It don't matter.mp3 of 4.319 s to 94 hashes
+NOMATCH querries/noisyenv5/-10/5query_04 It don't matter.mp3 4.3 sec 94 raw hashes
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.616 x RT
+Fri Apr 26 01:07:54 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:07:57 2019 Analyzed #0 querries/noisyenv5/-10/5query_04. In Vitro - Transitional Dimension.mp3 of 4.574 s to 577 hashes
+Matched querries/noisyenv5/-10/5query_04. In Vitro - Transitional Dimension.mp3 4.6 sec 577 raw hashes as ../temp/04. In Vitro - Transitional Dimension.mp3 at  184.0 s with    30 of  2053 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.621 x RT
+Fri Apr 26 01:07:58 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:08:01 2019 Analyzed #0 querries/noisyenv5/-10/5query_04_-_Mitsushi_Hasegawa_-_Aulodia_Tragica_reworked.mp3 of 4.783 s to 376 hashes
+NOMATCH querries/noisyenv5/-10/5query_04_-_Mitsushi_Hasegawa_-_Aulodia_Tragica_reworked.mp3 4.8 sec 376 raw hashes
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.601 x RT
+Fri Apr 26 01:08:02 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:08:05 2019 Analyzed #0 querries/noisyenv5/-10/5query_05 After All.mp3 of 4.412 s to 90 hashes
+Matched querries/noisyenv5/-10/5query_05 After All.mp3 4.4 sec 90 raw hashes as ../temp/05 After All.mp3 at   52.0 s with    11 of    14 common hashes at rank  1
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.592 x RT
+Fri Apr 26 01:08:06 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:08:09 2019 Analyzed #0 querries/noisyenv5/-10/5query_05 Everything (Ciara).mp3 of 4.667 s to 368 hashes
+NOMATCH querries/noisyenv5/-10/5query_05 Everything (Ciara).mp3 4.7 sec 368 raw hashes
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.604 x RT
+Fri Apr 26 01:08:10 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:08:13 2019 Analyzed #0 querries/noisyenv5/-10/5query_05 Pay No Mind (feat. Passion Pit).mp3 of 4.714 s to 421 hashes
+Matched querries/noisyenv5/-10/5query_05 Pay No Mind (feat. Passion Pit).mp3 4.7 sec 421 raw hashes as ../temp/05 Pay No Mind (feat. Passion Pit).mp3 at  118.0 s with    60 of   166 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.618 x RT
+Fri Apr 26 01:08:14 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Error reading header info from F:\KTH\IR\GroupProject\Shazam-Algorithm-noise-Test---IRProject\querries\noisyenv5\-10\5query_05 Prologue.m4a
+Fri Apr 26 01:08:18 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:08:21 2019 Analyzed #0 querries/noisyenv5/-10/5query_05 Schieß Mich Doch Zum Mond.mp3 of 4.923 s to 353 hashes
+Matched querries/noisyenv5/-10/5query_05 Schieß Mich Doch Zum Mond.mp3 4.9 sec 353 raw hashes as ../temp/05 Schieß Mich Doch Zum Mond.mp3 at   43.0 s with    38 of    62 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.603 x RT
+Fri Apr 26 01:08:22 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:08:25 2019 Analyzed #0 querries/noisyenv5/-10/5query_05 Wenn Worte meine Sprache wären.mp3 of 4.621 s to 222 hashes
+Matched querries/noisyenv5/-10/5query_05 Wenn Worte meine Sprache wären.mp3 4.6 sec 222 raw hashes as ../temp/05 Wenn Worte meine Sprache wären.mp3 at   80.0 s with    27 of    28 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.2 s sec = 0.648 x RT
+Fri Apr 26 01:08:26 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:08:29 2019 Analyzed #0 querries/noisyenv5/-10/5query_06 Beings.mp3 of 4.505 s to 87 hashes
+NOMATCH querries/noisyenv5/-10/5query_06 Beings.mp3 4.5 sec 87 raw hashes
+Processed 1 files (5.0 s total dur) in 3.2 s sec = 0.643 x RT
+Fri Apr 26 01:08:30 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:08:34 2019 Analyzed #0 querries/noisyenv5/-10/5query_06 Das Ist Der Hammer.wma of 4.621 s to 387 hashes
+Matched querries/noisyenv5/-10/5query_06 Das Ist Der Hammer.wma 4.6 sec 387 raw hashes as ../temp/06 Das Ist Der Hammer.wma at   57.9 s with    17 of   101 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.2 s sec = 0.635 x RT
+Fri Apr 26 01:08:35 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:08:38 2019 Analyzed #0 querries/noisyenv5/-10/5query_06 Das letzte Mal.mp3 of 3.576 s to 206 hashes
+Matched querries/noisyenv5/-10/5query_06 Das letzte Mal.mp3 3.6 sec 206 raw hashes as ../temp/06 Das letzte Mal.mp3 at   86.0 s with    10 of    17 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.599 x RT
+Fri Apr 26 01:08:39 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:08:42 2019 Analyzed #0 querries/noisyenv5/-10/5query_06 Let Go.mp3 of 4.528 s to 276 hashes
+Matched querries/noisyenv5/-10/5query_06 Let Go.mp3 4.5 sec 276 raw hashes as ../temp/06 Let Go.mp3 at   20.0 s with    45 of    52 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.609 x RT
+Fri Apr 26 01:08:43 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:08:45 2019 Analyzed #0 querries/noisyenv5/-10/5query_06 The one that got away.mp3 of 4.830 s to 191 hashes
+Matched querries/noisyenv5/-10/5query_06 The one that got away.mp3 4.8 sec 191 raw hashes as ../temp/06 The one that got away.mp3 at   99.0 s with    34 of    35 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.8 s sec = 0.562 x RT
+Fri Apr 26 01:08:46 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:08:50 2019 Analyzed #0 querries/noisyenv5/-10/5query_06 Wenn Sie Dich Fragt.mp3 of 4.946 s to 354 hashes
+Matched querries/noisyenv5/-10/5query_06 Wenn Sie Dich Fragt.mp3 4.9 sec 354 raw hashes as ../temp/06 Wenn Sie Dich Fragt.mp3 at  149.0 s with    22 of    45 common hashes at rank  1
+Processed 1 files (5.0 s total dur) in 3.3 s sec = 0.662 x RT
+Fri Apr 26 01:08:51 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:08:54 2019 Analyzed #0 querries/noisyenv5/-10/5query_06_Too_Many_Modes_64kb.mp3 of 4.899 s to 364 hashes
+Matched querries/noisyenv5/-10/5query_06_Too_Many_Modes_64kb.mp3 4.9 sec 364 raw hashes as ../temp/06_Too_Many_Modes_64kb.mp3 at   36.0 s with    18 of   238 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.4 s sec = 0.686 x RT
+Fri Apr 26 01:08:55 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Error reading header info from F:\KTH\IR\GroupProject\Shazam-Algorithm-noise-Test---IRProject\querries\noisyenv5\-10\5query_07 Hands Are Clever.m4a
+Fri Apr 26 01:08:59 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:09:02 2019 Analyzed #0 querries/noisyenv5/-10/5query_07 Imperium.mp3 of 4.899 s to 456 hashes
+Matched querries/noisyenv5/-10/5query_07 Imperium.mp3 4.9 sec 456 raw hashes as ../temp/07 Imperium.mp3 at  108.0 s with    20 of    81 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.617 x RT
+Fri Apr 26 01:09:03 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:09:06 2019 Analyzed #0 querries/noisyenv5/-10/5query_07 Lass Die Sonne Scheinen.wma of 4.876 s to 417 hashes
+Matched querries/noisyenv5/-10/5query_07 Lass Die Sonne Scheinen.wma 4.9 sec 417 raw hashes as ../temp/07 Lass Die Sonne Scheinen.wma at   44.9 s with    51 of   108 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.613 x RT
+Fri Apr 26 01:09:07 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:09:10 2019 Analyzed #0 querries/noisyenv5/-10/5query_07_-_moody_alien_-_Milady_of_the_Crows_Ascension.mp3 of 4.853 s to 354 hashes
+Matched querries/noisyenv5/-10/5query_07_-_moody_alien_-_Milady_of_the_Crows_Ascension.mp3 4.9 sec 354 raw hashes as ../temp/07_-_moody_alien_-_Milady_of_the_Crows_Ascension.mp3 at  115.0 s with    17 of    47 common hashes at rank  1
+Processed 1 files (5.0 s total dur) in 3.3 s sec = 0.668 x RT
+Fri Apr 26 01:09:11 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:09:14 2019 Analyzed #0 querries/noisyenv5/-10/5query_08 Daft Punk.mp3 of 4.876 s to 384 hashes
+Matched querries/noisyenv5/-10/5query_08 Daft Punk.mp3 4.9 sec 384 raw hashes as ../temp/08 Daft Punk.mp3 at  140.0 s with    19 of    21 common hashes at rank  1
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.598 x RT
+Fri Apr 26 01:09:15 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:09:19 2019 Analyzed #0 querries/noisyenv5/-10/5query_08 Ich Idiot Ließ Dich Gehen.mp3 of 4.830 s to 261 hashes
+Matched querries/noisyenv5/-10/5query_08 Ich Idiot Ließ Dich Gehen.mp3 4.8 sec 261 raw hashes as ../temp/08 Ich Idiot Ließ Dich Gehen.mp3 at   62.0 s with    23 of    27 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.2 s sec = 0.633 x RT
+Fri Apr 26 01:09:20 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:09:22 2019 Analyzed #0 querries/noisyenv5/-10/5query_08 It Will Never Rain Roses.mp3 of 4.830 s to 204 hashes
+NOMATCH querries/noisyenv5/-10/5query_08 It Will Never Rain Roses.mp3 4.8 sec 204 raw hashes
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.576 x RT
+Fri Apr 26 01:09:23 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Error reading header info from F:\KTH\IR\GroupProject\Shazam-Algorithm-noise-Test---IRProject\querries\noisyenv5\-10\5query_08 Tight Rope.m4a
+Fri Apr 26 01:09:27 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:09:30 2019 Analyzed #0 querries/noisyenv5/-10/5query_08_-_Mean_Flow_-_Aulodia_Tragica_reworked.mp3 of 4.551 s to 262 hashes
+NOMATCH querries/noisyenv5/-10/5query_08_-_Mean_Flow_-_Aulodia_Tragica_reworked.mp3 4.6 sec 262 raw hashes
+Processed 1 files (5.0 s total dur) in 3.2 s sec = 0.637 x RT
+Fri Apr 26 01:09:31 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:09:34 2019 Analyzed #0 querries/noisyenv5/-10/5query_08_3-Way_64kb.mp3 of 4.644 s to 294 hashes
+NOMATCH querries/noisyenv5/-10/5query_08_3-Way_64kb.mp3 4.6 sec 294 raw hashes
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.590 x RT
+Fri Apr 26 01:09:35 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:09:38 2019 Analyzed #0 querries/noisyenv5/-10/5query_09 - Beyond.mp3 of 4.714 s to 281 hashes
+NOMATCH querries/noisyenv5/-10/5query_09 - Beyond.mp3 4.7 sec 281 raw hashes
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.620 x RT
+Fri Apr 26 01:09:39 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:09:42 2019 Analyzed #0 querries/noisyenv5/-10/5query_09 Es kommt zurück.mp3 of 4.737 s to 281 hashes
+Matched querries/noisyenv5/-10/5query_09 Es kommt zurück.mp3 4.7 sec 281 raw hashes as ../temp/09 Es kommt zurück.mp3 at   97.0 s with    17 of    20 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.609 x RT
+Fri Apr 26 01:09:43 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:09:46 2019 Analyzed #0 querries/noisyenv5/-10/5query_09 Save the World _ Don_t You Worry Child.mp3 of 4.621 s to 363 hashes
+Matched querries/noisyenv5/-10/5query_09 Save the World _ Don_t You Worry Child.mp3 4.6 sec 363 raw hashes as ../temp/09 Save the World _ Don_t You Worry Child.mp3 at   24.0 s with    20 of    21 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.574 x RT
+Fri Apr 26 01:09:47 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:09:50 2019 Analyzed #0 querries/noisyenv5/-10/5query_09 Starte Durch.wma of 4.714 s to 427 hashes
+Matched querries/noisyenv5/-10/5query_09 Starte Durch.wma 4.7 sec 427 raw hashes as ../temp/09 Starte Durch.wma at   28.9 s with    21 of    33 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.613 x RT
+Fri Apr 26 01:09:51 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:09:54 2019 Analyzed #0 querries/noisyenv5/-10/5query_10 Bright Side.mp3 of 4.923 s to 299 hashes
+Matched querries/noisyenv5/-10/5query_10 Bright Side.mp3 4.9 sec 299 raw hashes as ../temp/10 Bright Side.mp3 at   70.0 s with    12 of    14 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.604 x RT
+Fri Apr 26 01:09:55 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:09:58 2019 Analyzed #0 querries/noisyenv5/-10/5query_10 Ease My Mind.mp3 of 4.923 s to 186 hashes
+Matched querries/noisyenv5/-10/5query_10 Ease My Mind.mp3 4.9 sec 186 raw hashes as ../temp/10 Ease My Mind.mp3 at   69.0 s with    33 of    43 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.2 s sec = 0.643 x RT
+Fri Apr 26 01:10:00 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Error reading header info from F:\KTH\IR\GroupProject\Shazam-Algorithm-noise-Test---IRProject\querries\noisyenv5\-10\5query_10 I Love You.m4a
+Fri Apr 26 01:10:03 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:10:06 2019 Analyzed #0 querries/noisyenv5/-10/5query_10 Murphys Gesetz.mp3 of 4.714 s to 399 hashes
+Matched querries/noisyenv5/-10/5query_10 Murphys Gesetz.mp3 4.7 sec 399 raw hashes as ../temp/10 Murphys Gesetz.mp3 at  114.0 s with    30 of   105 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.3 s sec = 0.664 x RT
+Fri Apr 26 01:10:07 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:10:11 2019 Analyzed #0 querries/noisyenv5/-10/5query_10 Skin & Bone.wma of 4.249 s to 95 hashes
+NOMATCH querries/noisyenv5/-10/5query_10 Skin & Bone.wma 4.2 sec 95 raw hashes
+Processed 1 files (5.0 s total dur) in 3.2 s sec = 0.635 x RT
+Fri Apr 26 01:10:12 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:10:14 2019 Analyzed #0 querries/noisyenv5/-10/5query_10_-_Ostacoli_Sonori_-_Aulodia_Tragica_reworked.mp3 of 4.946 s to 230 hashes
+Matched querries/noisyenv5/-10/5query_10_-_Ostacoli_Sonori_-_Aulodia_Tragica_reworked.mp3 4.9 sec 230 raw hashes as ../temp/10_-_Ostacoli_Sonori_-_Aulodia_Tragica_reworked.mp3 at   24.5 s with     7 of    16 common hashes at rank  1
+Processed 1 files (5.0 s total dur) in 2.8 s sec = 0.554 x RT
+Fri Apr 26 01:10:15 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:10:19 2019 Analyzed #0 querries/noisyenv5/-10/5query_11 Fire Away.mp3 of 4.899 s to 407 hashes
+Matched querries/noisyenv5/-10/5query_11 Fire Away.mp3 4.9 sec 407 raw hashes as ../temp/11 Fire Away.mp3 at   33.0 s with    57 of   150 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.624 x RT
+Fri Apr 26 01:10:20 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:10:23 2019 Analyzed #0 querries/noisyenv5/-10/5query_11 Pixel Empire.mp3 of 4.760 s to 525 hashes
+Matched querries/noisyenv5/-10/5query_11 Pixel Empire.mp3 4.8 sec 525 raw hashes as ../temp/11 Pixel Empire.mp3 at  109.0 s with    34 of   166 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.2 s sec = 0.646 x RT
+Fri Apr 26 01:10:24 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Error reading header info from F:\KTH\IR\GroupProject\Shazam-Algorithm-noise-Test---IRProject\querries\noisyenv5\-10\5query_11 Sanctuary.m4a
+Fri Apr 26 01:10:28 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:10:31 2019 Analyzed #0 querries/noisyenv5/-10/5query_11 Schall & Rauch.mp3 of 4.249 s to 204 hashes
+Matched querries/noisyenv5/-10/5query_11 Schall & Rauch.mp3 4.2 sec 204 raw hashes as ../temp/11 Schall & Rauch.mp3 at   41.0 s with    16 of    18 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.608 x RT
+Fri Apr 26 01:10:32 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:10:35 2019 Analyzed #0 querries/noisyenv5/-10/5query_12 Home.mp3 of 4.923 s to 578 hashes
+Matched querries/noisyenv5/-10/5query_12 Home.mp3 4.9 sec 578 raw hashes as ../temp/12 Home.mp3 at   74.0 s with    18 of   191 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.606 x RT
+Fri Apr 26 01:10:36 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Error reading header info from F:\KTH\IR\GroupProject\Shazam-Algorithm-noise-Test---IRProject\querries\noisyenv5\-10\5query_12 I Won_t Let You Down.m4a
+Fri Apr 26 01:10:39 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:10:43 2019 Analyzed #0 querries/noisyenv5/-10/5query_13 Du Willst Es Doch Auch.mp3 of 4.853 s to 148 hashes
+NOMATCH querries/noisyenv5/-10/5query_13 Du Willst Es Doch Auch.mp3 4.9 sec 148 raw hashes
+Processed 1 files (5.0 s total dur) in 3.2 s sec = 0.643 x RT
+Fri Apr 26 01:10:44 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:10:47 2019 Analyzed #0 querries/noisyenv5/-10/5query_13 Icarus.mp3 of 4.807 s to 471 hashes
+Matched querries/noisyenv5/-10/5query_13 Icarus.mp3 4.8 sec 471 raw hashes as ../temp/13 Icarus.mp3 at  104.0 s with    17 of    76 common hashes at rank  2
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.581 x RT
+Fri Apr 26 01:10:47 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:10:51 2019 Analyzed #0 querries/noisyenv5/-10/5query_13 Keine Zeit.mp3 of 4.899 s to 197 hashes
+Matched querries/noisyenv5/-10/5query_13 Keine Zeit.mp3 4.9 sec 197 raw hashes as ../temp/13 Keine Zeit.mp3 at   94.0 s with    27 of    51 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.614 x RT
+Fri Apr 26 01:10:51 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:10:55 2019 Analyzed #0 querries/noisyenv5/-10/5query_13 Mit Besten Grüßen.wma of 4.644 s to 295 hashes
+Matched querries/noisyenv5/-10/5query_13 Mit Besten Grüßen.wma 4.6 sec 295 raw hashes as ../temp/13 Mit Besten Grüßen.wma at   93.9 s with    19 of    65 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.3 s sec = 0.653 x RT
+Fri Apr 26 01:10:56 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:10:59 2019 Analyzed #0 querries/noisyenv5/-10/5query_13 Union Town (Piano Version).mp3 of 3.994 s to 181 hashes
+Matched querries/noisyenv5/-10/5query_13 Union Town (Piano Version).mp3 4.0 sec 181 raw hashes as ../temp/13 Union Town (Piano Version).mp3 at   85.0 s with    18 of    21 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.610 x RT
+Fri Apr 26 01:11:00 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:11:03 2019 Analyzed #0 querries/noisyenv5/-10/5query_13_-_Paulo_Chagas_and_Marco_Lucchi_-_Aulodia.mp3 of 4.574 s to 205 hashes
+NOMATCH querries/noisyenv5/-10/5query_13_-_Paulo_Chagas_and_Marco_Lucchi_-_Aulodia.mp3 4.6 sec 205 raw hashes
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.573 x RT
+Fri Apr 26 01:11:04 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:11:07 2019 Analyzed #0 querries/noisyenv5/-10/5query_14 Ich Liebe Sie Dafür.wma of 4.690 s to 321 hashes
+Matched querries/noisyenv5/-10/5query_14 Ich Liebe Sie Dafür.wma 4.7 sec 321 raw hashes as ../temp/14 Ich Liebe Sie Dafür.wma at   66.9 s with    20 of    39 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.604 x RT
+Fri Apr 26 01:11:08 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:11:11 2019 Analyzed #0 querries/noisyenv5/-10/5query_14 So Geil Berlin.mp3 of 4.830 s to 243 hashes
+Matched querries/noisyenv5/-10/5query_14 So Geil Berlin.mp3 4.8 sec 243 raw hashes as ../temp/14 So Geil Berlin.mp3 at   86.0 s with    25 of    33 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.2 s sec = 0.640 x RT
+Fri Apr 26 01:11:12 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:11:15 2019 Analyzed #0 querries/noisyenv5/-10/5query_15 Lemon.mp3 of 4.830 s to 536 hashes
+Matched querries/noisyenv5/-10/5query_15 Lemon.mp3 4.8 sec 536 raw hashes as ../temp/15 Lemon.mp3 at   68.0 s with    28 of    45 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.615 x RT
+Fri Apr 26 01:11:16 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:11:19 2019 Analyzed #0 querries/noisyenv5/-10/5query_15 Sorge Dich Nicht.wma of 4.644 s to 267 hashes
+NOMATCH querries/noisyenv5/-10/5query_15 Sorge Dich Nicht.wma 4.6 sec 267 raw hashes
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.587 x RT
+Fri Apr 26 01:11:20 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:11:23 2019 Analyzed #0 querries/noisyenv5/-10/5query_16 Cut the Kid.mp3 of 4.783 s to 482 hashes
+Matched querries/noisyenv5/-10/5query_16 Cut the Kid.mp3 4.8 sec 482 raw hashes as ../temp/16 Cut the Kid.mp3 at   36.0 s with    32 of    66 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.2 s sec = 0.641 x RT
+Fri Apr 26 01:11:24 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:11:27 2019 Analyzed #0 querries/noisyenv5/-10/5query_16 Mein Neues Handy.wma of 4.853 s to 358 hashes
+Matched querries/noisyenv5/-10/5query_16 Mein Neues Handy.wma 4.9 sec 358 raw hashes as ../temp/16 Mein Neues Handy.wma at   37.9 s with    21 of    34 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.601 x RT
+Fri Apr 26 01:11:28 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:11:31 2019 Analyzed #0 querries/noisyenv5/-10/5query_17 Am Ende Des Tages.wma of 4.899 s to 352 hashes
+Matched querries/noisyenv5/-10/5query_17 Am Ende Des Tages.wma 4.9 sec 352 raw hashes as ../temp/17 Am Ende Des Tages.wma at   72.9 s with    25 of    30 common hashes at rank  2
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.604 x RT
+Fri Apr 26 01:11:32 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:11:35 2019 Analyzed #0 querries/noisyenv5/-10/5query_17 Camo _ Krooked - Like I Do (feat. James Hersey).mp3 of 4.621 s to 309 hashes
+Matched querries/noisyenv5/-10/5query_17 Camo _ Krooked - Like I Do (feat. James Hersey).mp3 4.6 sec 309 raw hashes as ../temp/17 Camo _ Krooked - Like I Do (feat. James Hersey).mp3 at   88.0 s with    28 of   264 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.2 s sec = 0.632 x RT
+Fri Apr 26 01:11:36 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:11:39 2019 Analyzed #0 querries/noisyenv5/-10/5query_18 Only Way Out (feat. Vancouver Sleep Clinic).mp3 of 4.621 s to 333 hashes
+Matched querries/noisyenv5/-10/5query_18 Only Way Out (feat. Vancouver Sleep Clinic).mp3 4.6 sec 333 raw hashes as ../temp/18 Only Way Out (feat. Vancouver Sleep Clinic).mp3 at   49.0 s with    14 of    16 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.2 s sec = 0.649 x RT
+Fri Apr 26 01:11:40 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:11:43 2019 Analyzed #0 querries/noisyenv5/-10/5query_51 Saltatio Mortis-Manufactum-Dessous le pont de Nantes.mp3 of 4.853 s to 378 hashes
+Matched querries/noisyenv5/-10/5query_51 Saltatio Mortis-Manufactum-Dessous le pont de Nantes.mp3 4.9 sec 378 raw hashes as ../temp/51 Saltatio Mortis-Manufactum-Dessous le pont de Nantes.mp3 at  116.0 s with    26 of    38 common hashes at rank  1
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.614 x RT
+Fri Apr 26 01:11:44 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:11:47 2019 Analyzed #0 querries/noisyenv5/-10/5query_53 Saltatio Mortis-Manufactum-Saltatio Mortis.mp3 of 4.807 s to 255 hashes
+Matched querries/noisyenv5/-10/5query_53 Saltatio Mortis-Manufactum-Saltatio Mortis.mp3 4.8 sec 255 raw hashes as ../temp/53 Saltatio Mortis-Manufactum-Saltatio Mortis.mp3 at   21.0 s with    15 of    35 common hashes at rank  1
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.614 x RT
+Fri Apr 26 01:11:48 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:11:51 2019 Analyzed #0 querries/noisyenv5/-10/5query_54 Saltatio Mortis-Manufactum-Heptessenz.mp3 of 4.853 s to 516 hashes
+Matched querries/noisyenv5/-10/5query_54 Saltatio Mortis-Manufactum-Heptessenz.mp3 4.9 sec 516 raw hashes as ../temp/54 Saltatio Mortis-Manufactum-Heptessenz.mp3 at   80.0 s with    43 of    54 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.616 x RT
+Fri Apr 26 01:11:52 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:11:56 2019 Analyzed #0 querries/noisyenv5/-10/5query_59 Saltatio Mortis-Manufactum-Belicha - Bärentanz.mp3 of 4.783 s to 287 hashes
+NOMATCH querries/noisyenv5/-10/5query_59 Saltatio Mortis-Manufactum-Belicha - Bärentanz.mp3 4.8 sec 287 raw hashes
+Processed 1 files (5.0 s total dur) in 3.7 s sec = 0.740 x RT
+Fri Apr 26 01:11:57 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:12:00 2019 Analyzed #0 querries/noisyenv5/-10/5query_60 Saltatio Mortis-Manufactum II-Varulven.mp3 of 4.899 s to 316 hashes
+Matched querries/noisyenv5/-10/5query_60 Saltatio Mortis-Manufactum II-Varulven.mp3 4.9 sec 316 raw hashes as ../temp/60 Saltatio Mortis-Manufactum II-Varulven.mp3 at  119.0 s with    25 of    54 common hashes at rank  2
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.604 x RT
+Fri Apr 26 01:12:01 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:12:04 2019 Analyzed #0 querries/noisyenv5/-10/5query_64 Saltatio Mortis-Manufactum II-Drunken Sailor.mp3 of 4.946 s to 523 hashes
+Matched querries/noisyenv5/-10/5query_64 Saltatio Mortis-Manufactum II-Drunken Sailor.mp3 4.9 sec 523 raw hashes as ../temp/64 Saltatio Mortis-Manufactum II-Drunken Sailor.mp3 at  115.0 s with    44 of    62 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.4 s sec = 0.671 x RT
+Fri Apr 26 01:12:05 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:12:08 2019 Analyzed #0 querries/noisyenv5/-10/5query_65 Saltatio Mortis-Manufactum II-Veitstanz.mp3 of 4.714 s to 451 hashes
+Matched querries/noisyenv5/-10/5query_65 Saltatio Mortis-Manufactum II-Veitstanz.mp3 4.7 sec 451 raw hashes as ../temp/65 Saltatio Mortis-Manufactum II-Veitstanz.mp3 at   92.0 s with    69 of    75 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.612 x RT
+Fri Apr 26 01:12:09 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:12:12 2019 Analyzed #0 querries/noisyenv5/-10/5query_66 Saltatio Mortis-Manufactum II-Palästinalied.mp3 of 4.760 s to 190 hashes
+Matched querries/noisyenv5/-10/5query_66 Saltatio Mortis-Manufactum II-Palästinalied.mp3 4.8 sec 190 raw hashes as ../temp/66 Saltatio Mortis-Manufactum II-Palästinalied.mp3 at   24.0 s with    13 of    18 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.581 x RT
+Fri Apr 26 01:12:13 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:12:16 2019 Analyzed #0 querries/noisyenv5/-10/5query_67 Saltatio Mortis-Manufactum II-Ecce Gratum.mp3 of 4.760 s to 320 hashes
+Matched querries/noisyenv5/-10/5query_67 Saltatio Mortis-Manufactum II-Ecce Gratum.mp3 4.8 sec 320 raw hashes as ../temp/67 Saltatio Mortis-Manufactum II-Ecce Gratum.mp3 at   38.0 s with    31 of    42 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.2 s sec = 0.650 x RT
+Fri Apr 26 01:12:17 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:12:20 2019 Analyzed #0 querries/noisyenv5/-10/5query_68 Saltatio Mortis-Manufactum II-Loch Lomond.mp3 of 4.946 s to 444 hashes
+Matched querries/noisyenv5/-10/5query_68 Saltatio Mortis-Manufactum II-Loch Lomond.mp3 4.9 sec 444 raw hashes as ../temp/68 Saltatio Mortis-Manufactum II-Loch Lomond.mp3 at  118.0 s with    32 of    34 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.2 s sec = 0.638 x RT
+Fri Apr 26 01:12:21 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:12:24 2019 Analyzed #0 querries/noisyenv5/-10/5query_69 Saltatio Mortis-Manufactum II-Spielmannsschwur.mp3 of 4.505 s to 229 hashes
+Matched querries/noisyenv5/-10/5query_69 Saltatio Mortis-Manufactum II-Spielmannsschwur.mp3 4.5 sec 229 raw hashes as ../temp/69 Saltatio Mortis-Manufactum II-Spielmannsschwur.mp3 at  140.0 s with     7 of    10 common hashes at rank 11
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.581 x RT
+Fri Apr 26 01:12:25 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:12:28 2019 Analyzed #0 querries/noisyenv5/-10/5query_72 Saltatio Mortis-Manufactum II-Skudrinka.mp3 of 4.853 s to 530 hashes
+Matched querries/noisyenv5/-10/5query_72 Saltatio Mortis-Manufactum II-Skudrinka.mp3 4.9 sec 530 raw hashes as ../temp/72 Saltatio Mortis-Manufactum II-Skudrinka.mp3 at   28.0 s with    41 of    71 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.620 x RT
+Fri Apr 26 01:12:29 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:12:33 2019 Analyzed #0 querries/noisyenv5/-10/5query_73 Saltatio Mortis-Manufactum II-Equinox.mp3 of 4.737 s to 416 hashes
+Matched querries/noisyenv5/-10/5query_73 Saltatio Mortis-Manufactum II-Equinox.mp3 4.7 sec 416 raw hashes as ../temp/73 Saltatio Mortis-Manufactum II-Equinox.mp3 at   90.0 s with    54 of   115 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.4 s sec = 0.685 x RT
+Fri Apr 26 01:12:34 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:12:37 2019 Analyzed #0 querries/noisyenv5/-10/5query_74 Saltatio Mortis-Manufactum II-Ali Ben.mp3 of 4.667 s to 359 hashes
+Matched querries/noisyenv5/-10/5query_74 Saltatio Mortis-Manufactum II-Ali Ben.mp3 4.7 sec 359 raw hashes as ../temp/74 Saltatio Mortis-Manufactum II-Ali Ben.mp3 at   46.0 s with    42 of    45 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.4 s sec = 0.671 x RT
+Fri Apr 26 01:12:38 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:12:42 2019 Analyzed #0 querries/noisyenv5/-10/5query_75 Saltatio Mortis-Manufactum II-Le Corsaire.mp3 of 4.899 s to 327 hashes
+Matched querries/noisyenv5/-10/5query_75 Saltatio Mortis-Manufactum II-Le Corsaire.mp3 4.9 sec 327 raw hashes as ../temp/75 Saltatio Mortis-Manufactum II-Le Corsaire.mp3 at  106.0 s with    38 of    51 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.2 s sec = 0.635 x RT
+Fri Apr 26 01:12:43 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:12:47 2019 Analyzed #0 querries/noisyenv5/-10/5query_83 Santiano-Bis ans Ende der Welt-Der Wind ruft meinen Namen.mp3 of 4.783 s to 360 hashes
+Matched querries/noisyenv5/-10/5query_83 Santiano-Bis ans Ende der Welt-Der Wind ruft meinen Namen.mp3 4.8 sec 360 raw hashes as ../temp/83 Santiano-Bis ans Ende der Welt-Der Wind ruft meinen Namen.mp3 at  102.0 s with    45 of    75 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.8 s sec = 0.764 x RT
+Fri Apr 26 01:12:48 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:12:52 2019 Analyzed #0 querries/noisyenv5/-10/5query_85 Santiano-Bis ans Ende der Welt-Auf nach Californio.mp3 of 4.690 s to 433 hashes
+Matched querries/noisyenv5/-10/5query_85 Santiano-Bis ans Ende der Welt-Auf nach Californio.mp3 4.7 sec 433 raw hashes as ../temp/85 Santiano-Bis ans Ende der Welt-Auf nach Californio.mp3 at   82.0 s with    26 of  1097 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 4.1 s sec = 0.827 x RT
+Fri Apr 26 01:12:53 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:12:57 2019 Analyzed #0 querries/noisyenv5/-10/5query_87 Santiano-Bis ans Ende der Welt-Irish Rover.mp3 of 4.644 s to 403 hashes
+Matched querries/noisyenv5/-10/5query_87 Santiano-Bis ans Ende der Welt-Irish Rover.mp3 4.6 sec 403 raw hashes as ../temp/87 Santiano-Bis ans Ende der Welt-Irish Rover.mp3 at   84.0 s with    26 of   659 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 4.1 s sec = 0.821 x RT
+Fri Apr 26 01:12:58 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:13:02 2019 Analyzed #0 querries/noisyenv5/-10/5query_88 Santiano-Bis ans Ende der Welt-Land in Sicht.mp3 of 4.923 s to 408 hashes
+Matched querries/noisyenv5/-10/5query_88 Santiano-Bis ans Ende der Welt-Land in Sicht.mp3 4.9 sec 408 raw hashes as ../temp/88 Santiano-Bis ans Ende der Welt-Land in Sicht.mp3 at  110.0 s with    34 of   720 common hashes at rank  1
+Processed 1 files (5.0 s total dur) in 3.3 s sec = 0.665 x RT
+Fri Apr 26 01:13:02 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:13:05 2019 Analyzed #0 querries/noisyenv5/-10/5query_aAirial - Wanderings - 01 Towards New Horizons.mp3 of 4.621 s to 258 hashes
+NOMATCH querries/noisyenv5/-10/5query_aAirial - Wanderings - 01 Towards New Horizons.mp3 4.6 sec 258 raw hashes
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.600 x RT
+Fri Apr 26 01:13:06 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:13:09 2019 Analyzed #0 querries/noisyenv5/-10/5query_aAirial - Wanderings - 02 Where.mp3 of 4.621 s to 255 hashes
+NOMATCH querries/noisyenv5/-10/5query_aAirial - Wanderings - 02 Where.mp3 4.6 sec 255 raw hashes
+Processed 1 files (5.0 s total dur) in 2.8 s sec = 0.560 x RT
+Fri Apr 26 01:13:10 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:13:13 2019 Analyzed #0 querries/noisyenv5/-10/5query_aAirial - Wanderings - 05 Child of the Universe (with Hanna).mp3 of 4.621 s to 293 hashes
+NOMATCH querries/noisyenv5/-10/5query_aAirial - Wanderings - 05 Child of the Universe (with Hanna).mp3 4.6 sec 293 raw hashes
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.614 x RT
+Fri Apr 26 01:13:15 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:13:18 2019 Analyzed #0 querries/noisyenv5/-10/5query_aAirial - Wanderings - 06 Au Gré des Vagues.mp3 of 4.621 s to 191 hashes
+NOMATCH querries/noisyenv5/-10/5query_aAirial - Wanderings - 06 Au Gré des Vagues.mp3 4.6 sec 191 raw hashes
+Processed 1 files (5.0 s total dur) in 3.3 s sec = 0.669 x RT
+Fri Apr 26 01:13:19 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:13:22 2019 Analyzed #0 querries/noisyenv5/-10/5query_aAirial - Wanderings - 07 Wanderings.mp3 of 4.621 s to 269 hashes
+NOMATCH querries/noisyenv5/-10/5query_aAirial - Wanderings - 07 Wanderings.mp3 4.6 sec 269 raw hashes
+Processed 1 files (5.0 s total dur) in 3.4 s sec = 0.685 x RT
+Fri Apr 26 01:13:23 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:13:27 2019 Analyzed #0 querries/noisyenv5/-10/5query_aAirial - Wanderings - 09 A Silence is Worth a Thousand Thoughts.mp3 of 4.621 s to 221 hashes
+NOMATCH querries/noisyenv5/-10/5query_aAirial - Wanderings - 09 A Silence is Worth a Thousand Thoughts.mp3 4.6 sec 221 raw hashes
+Processed 1 files (5.0 s total dur) in 3.9 s sec = 0.775 x RT
+Fri Apr 26 01:13:29 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:13:31 2019 Analyzed #0 querries/noisyenv5/-10/5query_aAirial - Wanderings - 11 Let Go.mp3 of 4.621 s to 210 hashes
+NOMATCH querries/noisyenv5/-10/5query_aAirial - Wanderings - 11 Let Go.mp3 4.6 sec 210 raw hashes
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.576 x RT
+Fri Apr 26 01:13:32 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:13:36 2019 Analyzed #0 querries/noisyenv5/-10/5query_aAirial - Wanderings - 14 Wanderings (4T Thieves Reconstruction).mp3 of 4.621 s to 260 hashes
+NOMATCH querries/noisyenv5/-10/5query_aAirial - Wanderings - 14 Wanderings (4T Thieves Reconstruction).mp3 4.6 sec 260 raw hashes
+Processed 1 files (5.0 s total dur) in 3.2 s sec = 0.650 x RT
+Fri Apr 26 01:13:37 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:13:40 2019 Analyzed #0 querries/noisyenv5/-10/5query_aAirial - Wanderings - 16 Wanderings (DaoLogic Remix).mp3 of 4.667 s to 204 hashes
+NOMATCH querries/noisyenv5/-10/5query_aAirial - Wanderings - 16 Wanderings (DaoLogic Remix).mp3 4.7 sec 204 raw hashes
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.597 x RT
+Fri Apr 26 01:13:40 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:13:43 2019 Analyzed #0 querries/noisyenv5/-10/5query_Alexander Ehlers - Doomed.mp3 of 4.876 s to 563 hashes
+Matched querries/noisyenv5/-10/5query_Alexander Ehlers - Doomed.mp3 4.9 sec 563 raw hashes as ../temp/Alexander Ehlers - Doomed.mp3 at   74.0 s with    11 of    41 common hashes at rank  4
+Processed 1 files (5.0 s total dur) in 2.8 s sec = 0.566 x RT
+Fri Apr 26 01:13:44 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:13:47 2019 Analyzed #0 querries/noisyenv5/-10/5query_Alexander Ehlers - Flags.mp3 of 4.737 s to 339 hashes
+Matched querries/noisyenv5/-10/5query_Alexander Ehlers - Flags.mp3 4.7 sec 339 raw hashes as ../temp/Alexander Ehlers - Flags.mp3 at   35.0 s with    28 of   103 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.8 s sec = 0.551 x RT
+Fri Apr 26 01:13:48 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:13:51 2019 Analyzed #0 querries/noisyenv5/-10/5query_Alexander Ehlers - Great mission.mp3 of 4.621 s to 350 hashes
+NOMATCH querries/noisyenv5/-10/5query_Alexander Ehlers - Great mission.mp3 4.6 sec 350 raw hashes
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.622 x RT
+Fri Apr 26 01:13:52 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:13:55 2019 Analyzed #0 querries/noisyenv5/-10/5query_Alexander Ehlers - Twists.mp3 of 4.621 s to 143 hashes
+Matched querries/noisyenv5/-10/5query_Alexander Ehlers - Twists.mp3 4.6 sec 143 raw hashes as ../temp/Alexander Ehlers - Twists.mp3 at   99.0 s with     6 of    10 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.621 x RT
+Fri Apr 26 01:13:56 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:14:00 2019 Analyzed #0 querries/noisyenv5/-10/5query_Alexander Ehlers - Waking the devil.mp3 of 4.644 s to 238 hashes
+NOMATCH querries/noisyenv5/-10/5query_Alexander Ehlers - Waking the devil.mp3 4.6 sec 238 raw hashes
+Processed 1 files (5.0 s total dur) in 3.3 s sec = 0.655 x RT
+Fri Apr 26 01:14:00 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:14:03 2019 Analyzed #0 querries/noisyenv5/-10/5query_Alexander Ehlers - Warped.mp3 of 4.876 s to 324 hashes
+Matched querries/noisyenv5/-10/5query_Alexander Ehlers - Warped.mp3 4.9 sec 324 raw hashes as ../temp/Alexander Ehlers - Warped.mp3 at   50.0 s with    19 of    61 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.582 x RT
+Fri Apr 26 01:14:05 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:14:10 2019 Analyzed #0 querries/noisyenv5/-10/5query_Alternarama-Destierro-10-Destierro_64kb.mp3 of 4.714 s to 329 hashes
+Matched querries/noisyenv5/-10/5query_Alternarama-Destierro-10-Destierro_64kb.mp3 4.7 sec 329 raw hashes as ../temp/Alternarama-Destierro-10-Destierro_64kb.mp3 at  137.0 s with     8 of   156 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 4.7 s sec = 0.939 x RT
+Fri Apr 26 01:14:11 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:14:15 2019 Analyzed #0 querries/noisyenv5/-10/5query_Alternarama-Destierro-1-Soy-feliz_64kb.mp3 of 4.830 s to 456 hashes
+Matched querries/noisyenv5/-10/5query_Alternarama-Destierro-1-Soy-feliz_64kb.mp3 4.8 sec 456 raw hashes as ../temp/Alternarama-Destierro-1-Soy-feliz_64kb.mp3 at  142.0 s with    13 of    17 common hashes at rank  3
+Processed 1 files (5.0 s total dur) in 3.5 s sec = 0.698 x RT
+Fri Apr 26 01:14:16 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:14:19 2019 Analyzed #0 querries/noisyenv5/-10/5query_Alternarama-Destierro-5-Vista-panoramica_64kb.mp3 of 4.737 s to 499 hashes
+Matched querries/noisyenv5/-10/5query_Alternarama-Destierro-5-Vista-panoramica_64kb.mp3 4.7 sec 499 raw hashes as ../temp/Alternarama-Destierro-5-Vista-panoramica_64kb.mp3 at   93.8 s with    13 of   310 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.610 x RT
+Fri Apr 26 01:14:20 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:14:22 2019 Analyzed #0 querries/noisyenv5/-10/5query_Alternarama-Destierro-7-Mil-razones_64kb.mp3 of 4.923 s to 217 hashes
+Matched querries/noisyenv5/-10/5query_Alternarama-Destierro-7-Mil-razones_64kb.mp3 4.9 sec 217 raw hashes as ../temp/Alternarama-Destierro-7-Mil-razones_64kb.mp3 at   20.0 s with     9 of    10 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.7 s sec = 0.545 x RT
+Fri Apr 26 01:14:23 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:14:27 2019 Analyzed #0 querries/noisyenv5/-10/5query_BaseAfterBase.mp3 of 4.621 s to 580 hashes
+Matched querries/noisyenv5/-10/5query_BaseAfterBase.mp3 4.6 sec 580 raw hashes as ../temp/BaseAfterBase.mp3 at   23.0 s with    16 of    40 common hashes at rank  1
+Processed 1 files (5.0 s total dur) in 3.6 s sec = 0.716 x RT
+Fri Apr 26 01:14:28 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:14:31 2019 Analyzed #0 querries/noisyenv5/-10/5query_bensound-acousticbreeze.mp3 of 4.690 s to 354 hashes
+NOMATCH querries/noisyenv5/-10/5query_bensound-acousticbreeze.mp3 4.7 sec 354 raw hashes
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.594 x RT
+Fri Apr 26 01:14:32 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:14:36 2019 Analyzed #0 querries/noisyenv5/-10/5query_bensound-actionable.mp3 of 4.946 s to 358 hashes
+Matched querries/noisyenv5/-10/5query_bensound-actionable.mp3 4.9 sec 358 raw hashes as ../temp/bensound-actionable.mp3 at   71.0 s with    32 of   229 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 4.3 s sec = 0.859 x RT
+Fri Apr 26 01:14:38 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:14:41 2019 Analyzed #0 querries/noisyenv5/-10/5query_bensound-adaytoremember.mp3 of 4.505 s to 242 hashes
+NOMATCH querries/noisyenv5/-10/5query_bensound-adaytoremember.mp3 4.5 sec 242 raw hashes
+Processed 1 files (5.0 s total dur) in 3.3 s sec = 0.650 x RT
+Fri Apr 26 01:14:43 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:14:47 2019 Analyzed #0 querries/noisyenv5/-10/5query_bensound-birthofahero.mp3 of 4.644 s to 181 hashes
+NOMATCH querries/noisyenv5/-10/5query_bensound-birthofahero.mp3 4.6 sec 181 raw hashes
+Processed 1 files (5.0 s total dur) in 4.4 s sec = 0.871 x RT
+Fri Apr 26 01:14:48 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:14:51 2019 Analyzed #0 querries/noisyenv5/-10/5query_bensound-clearday.mp3 of 4.644 s to 276 hashes
+Matched querries/noisyenv5/-10/5query_bensound-clearday.mp3 4.6 sec 276 raw hashes as ../temp/bensound-clearday.mp3 at   43.0 s with    12 of    49 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.595 x RT
+Fri Apr 26 01:14:52 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:14:56 2019 Analyzed #0 querries/noisyenv5/-10/5query_bensound-creativeminds.mp3 of 4.667 s to 312 hashes
+Matched querries/noisyenv5/-10/5query_bensound-creativeminds.mp3 4.7 sec 312 raw hashes as ../temp/bensound-creativeminds.mp3 at   28.0 s with    18 of    59 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.4 s sec = 0.689 x RT
+Fri Apr 26 01:14:57 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:15:00 2019 Analyzed #0 querries/noisyenv5/-10/5query_bensound-creepy.mp3 of 4.876 s to 521 hashes
+Matched querries/noisyenv5/-10/5query_bensound-creepy.mp3 4.9 sec 521 raw hashes as ../temp/bensound-creepy.mp3 at  135.0 s with    78 of   603 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.7 s sec = 0.736 x RT
+Fri Apr 26 01:15:01 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:15:05 2019 Analyzed #0 querries/noisyenv5/-10/5query_bensound-cute.mp3 of 4.156 s to 153 hashes
+Matched querries/noisyenv5/-10/5query_bensound-cute.mp3 4.2 sec 153 raw hashes as ../temp/bensound-cute.mp3 at  130.0 s with    14 of   100 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.6 s sec = 0.721 x RT
+Fri Apr 26 01:15:06 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:15:09 2019 Analyzed #0 querries/noisyenv5/-10/5query_bensound-dance.mp3 of 4.783 s to 446 hashes
+Matched querries/noisyenv5/-10/5query_bensound-dance.mp3 4.8 sec 446 raw hashes as ../temp/bensound-dance.mp3 at   36.7 s with    19 of   393 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.4 s sec = 0.673 x RT
+Fri Apr 26 01:15:10 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:15:14 2019 Analyzed #0 querries/noisyenv5/-10/5query_bensound-downtown.mp3 of 4.621 s to 408 hashes
+Matched querries/noisyenv5/-10/5query_bensound-downtown.mp3 4.6 sec 408 raw hashes as ../temp/bensound-downtown.mp3 at   42.0 s with    19 of    54 common hashes at rank  1
+Processed 1 files (5.0 s total dur) in 3.5 s sec = 0.694 x RT
+Fri Apr 26 01:15:15 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:15:18 2019 Analyzed #0 querries/noisyenv5/-10/5query_bensound-dreams.mp3 of 4.830 s to 531 hashes
+Matched querries/noisyenv5/-10/5query_bensound-dreams.mp3 4.8 sec 531 raw hashes as ../temp/bensound-dreams.mp3 at  114.6 s with    19 of   812 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.7 s sec = 0.730 x RT
+Fri Apr 26 01:15:20 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:15:23 2019 Analyzed #0 querries/noisyenv5/-10/5query_bensound-endlessmotion.mp3 of 4.853 s to 358 hashes
+Matched querries/noisyenv5/-10/5query_bensound-endlessmotion.mp3 4.9 sec 358 raw hashes as ../temp/bensound-endlessmotion.mp3 at   42.0 s with    25 of    75 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.4 s sec = 0.686 x RT
+Fri Apr 26 01:15:24 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:15:28 2019 Analyzed #0 querries/noisyenv5/-10/5query_bensound-enigmatic.mp3 of 4.133 s to 43 hashes
+NOMATCH querries/noisyenv5/-10/5query_bensound-enigmatic.mp3 4.1 sec 43 raw hashes
+Processed 1 files (5.0 s total dur) in 3.4 s sec = 0.684 x RT
+Fri Apr 26 01:15:29 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:15:33 2019 Analyzed #0 querries/noisyenv5/-10/5query_bensound-evolution.mp3 of 4.830 s to 389 hashes
+Matched querries/noisyenv5/-10/5query_bensound-evolution.mp3 4.8 sec 389 raw hashes as ../temp/bensound-evolution.mp3 at  101.0 s with    28 of   186 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.7 s sec = 0.736 x RT
+Fri Apr 26 01:15:34 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:15:37 2019 Analyzed #0 querries/noisyenv5/-10/5query_bensound-funday.mp3 of 4.644 s to 393 hashes
+Matched querries/noisyenv5/-10/5query_bensound-funday.mp3 4.6 sec 393 raw hashes as ../temp/bensound-funday.mp3 at   71.0 s with    22 of    67 common hashes at rank  1
+Processed 1 files (5.0 s total dur) in 3.3 s sec = 0.659 x RT
+Fri Apr 26 01:15:38 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:15:42 2019 Analyzed #0 querries/noisyenv5/-10/5query_bensound-goinghigher.mp3 of 4.644 s to 211 hashes
+Matched querries/noisyenv5/-10/5query_bensound-goinghigher.mp3 4.6 sec 211 raw hashes as ../temp/bensound-goinghigher.mp3 at   28.0 s with    22 of   205 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.4 s sec = 0.681 x RT
+Fri Apr 26 01:15:43 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:15:46 2019 Analyzed #0 querries/noisyenv5/-10/5query_bensound-happiness.mp3 of 4.180 s to 317 hashes
+Matched querries/noisyenv5/-10/5query_bensound-happiness.mp3 4.2 sec 317 raw hashes as ../temp/bensound-happiness.mp3 at  141.0 s with    29 of    68 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.3 s sec = 0.669 x RT
+Fri Apr 26 01:15:47 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:15:50 2019 Analyzed #0 querries/noisyenv5/-10/5query_bensound-hipjazz.mp3 of 4.899 s to 514 hashes
+Matched querries/noisyenv5/-10/5query_bensound-hipjazz.mp3 4.9 sec 514 raw hashes as ../temp/bensound-hipjazz.mp3 at   93.0 s with    54 of   898 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.591 x RT
+Fri Apr 26 01:15:51 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:15:54 2019 Analyzed #0 querries/noisyenv5/-10/5query_bensound-house.mp3 of 4.621 s to 459 hashes
+Matched querries/noisyenv5/-10/5query_bensound-house.mp3 4.6 sec 459 raw hashes as ../temp/bensound-house.mp3 at   85.0 s with     6 of   107 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.2 s sec = 0.635 x RT
+Fri Apr 26 01:15:56 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:16:00 2019 Analyzed #0 querries/noisyenv5/-10/5query_bensound-india.mp3 of 4.760 s to 363 hashes
+Matched querries/noisyenv5/-10/5query_bensound-india.mp3 4.8 sec 363 raw hashes as ../temp/bensound-india.mp3 at  240.8 s with    11 of    93 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 4.2 s sec = 0.832 x RT
+Fri Apr 26 01:16:01 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:16:06 2019 Analyzed #0 querries/noisyenv5/-10/5query_bensound-inspire.mp3 of 4.830 s to 323 hashes
+Matched querries/noisyenv5/-10/5query_bensound-inspire.mp3 4.8 sec 323 raw hashes as ../temp/bensound-inspire.mp3 at   28.0 s with     7 of    39 common hashes at rank  1
+Processed 1 files (5.0 s total dur) in 4.7 s sec = 0.948 x RT
+Fri Apr 26 01:16:07 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:16:10 2019 Analyzed #0 querries/noisyenv5/-10/5query_bensound-jazzcomedy.mp3 of 4.551 s to 109 hashes
+Matched querries/noisyenv5/-10/5query_bensound-jazzcomedy.mp3 4.6 sec 109 raw hashes as ../temp/bensound-jazzcomedy.mp3 at   86.0 s with    20 of    28 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.571 x RT
+Fri Apr 26 01:16:11 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:16:14 2019 Analyzed #0 querries/noisyenv5/-10/5query_bensound-littleidea.mp3 of 4.714 s to 407 hashes
+Matched querries/noisyenv5/-10/5query_bensound-littleidea.mp3 4.7 sec 407 raw hashes as ../temp/bensound-littleidea.mp3 at   97.0 s with    26 of   201 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.2 s sec = 0.636 x RT
+Fri Apr 26 01:16:15 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:16:18 2019 Analyzed #0 querries/noisyenv5/-10/5query_bensound-onceagain.mp3 of 4.621 s to 157 hashes
+NOMATCH querries/noisyenv5/-10/5query_bensound-onceagain.mp3 4.6 sec 157 raw hashes
+Processed 1 files (5.0 s total dur) in 3.2 s sec = 0.632 x RT
+Fri Apr 26 01:16:19 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:16:23 2019 Analyzed #0 querries/noisyenv5/-10/5query_bensound-perception.mp3 of 4.760 s to 237 hashes
+NOMATCH querries/noisyenv5/-10/5query_bensound-perception.mp3 4.8 sec 237 raw hashes
+Processed 1 files (5.0 s total dur) in 3.4 s sec = 0.672 x RT
+Fri Apr 26 01:16:24 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:16:27 2019 Analyzed #0 querries/noisyenv5/-10/5query_bensound-photoalbum.mp3 of 4.644 s to 196 hashes
+NOMATCH querries/noisyenv5/-10/5query_bensound-photoalbum.mp3 4.6 sec 196 raw hashes
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.573 x RT
+Fri Apr 26 01:16:28 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:16:31 2019 Analyzed #0 querries/noisyenv5/-10/5query_bensound-pianomoment.mp3 of 4.621 s to 144 hashes
+NOMATCH querries/noisyenv5/-10/5query_bensound-pianomoment.mp3 4.6 sec 144 raw hashes
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.626 x RT
+Fri Apr 26 01:16:32 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:16:35 2019 Analyzed #0 querries/noisyenv5/-10/5query_bensound-popdance.mp3 of 4.899 s to 295 hashes
+Matched querries/noisyenv5/-10/5query_bensound-popdance.mp3 4.9 sec 295 raw hashes as ../temp/bensound-popdance.mp3 at  150.9 s with    51 of   527 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.591 x RT
+Fri Apr 26 01:16:36 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:16:39 2019 Analyzed #0 querries/noisyenv5/-10/5query_bensound-psychedelic.mp3 of 4.644 s to 94 hashes
+Matched querries/noisyenv5/-10/5query_bensound-psychedelic.mp3 4.6 sec 94 raw hashes as ../temp/bensound-psychedelic.mp3 at   32.0 s with    13 of    87 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.604 x RT
+Fri Apr 26 01:16:40 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:16:43 2019 Analyzed #0 querries/noisyenv5/-10/5query_bensound-relaxing.mp3 of 4.621 s to 234 hashes
+NOMATCH querries/noisyenv5/-10/5query_bensound-relaxing.mp3 4.6 sec 234 raw hashes
+Processed 1 files (5.0 s total dur) in 3.2 s sec = 0.643 x RT
+Fri Apr 26 01:16:44 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:16:47 2019 Analyzed #0 querries/noisyenv5/-10/5query_bensound-romantic.mp3 of 4.853 s to 173 hashes
+NOMATCH querries/noisyenv5/-10/5query_bensound-romantic.mp3 4.9 sec 173 raw hashes
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.592 x RT
+Fri Apr 26 01:16:48 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:16:51 2019 Analyzed #0 querries/noisyenv5/-10/5query_bensound-sadday.mp3 of 4.505 s to 136 hashes
+NOMATCH querries/noisyenv5/-10/5query_bensound-sadday.mp3 4.5 sec 136 raw hashes
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.599 x RT
+Fri Apr 26 01:16:52 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:16:55 2019 Analyzed #0 querries/noisyenv5/-10/5query_bensound-slowmotion.mp3 of 4.505 s to 93 hashes
+NOMATCH querries/noisyenv5/-10/5query_bensound-slowmotion.mp3 4.5 sec 93 raw hashes
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.589 x RT
+Fri Apr 26 01:16:56 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:17:00 2019 Analyzed #0 querries/noisyenv5/-10/5query_bensound-smallguitar.mp3 of 4.458 s to 493 hashes
+Matched querries/noisyenv5/-10/5query_bensound-smallguitar.mp3 4.5 sec 493 raw hashes as ../temp/bensound-smallguitar.mp3 at  107.0 s with    29 of   104 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.3 s sec = 0.665 x RT
+Fri Apr 26 01:17:01 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:17:04 2019 Analyzed #0 querries/noisyenv5/-10/5query_bensound-smile.mp3 of 4.714 s to 341 hashes
+Matched querries/noisyenv5/-10/5query_bensound-smile.mp3 4.7 sec 341 raw hashes as ../temp/bensound-smile.mp3 at  104.0 s with    20 of    54 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.579 x RT
+Fri Apr 26 01:17:05 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:17:08 2019 Analyzed #0 querries/noisyenv5/-10/5query_bensound-summer.mp3 of 4.505 s to 267 hashes
+Matched querries/noisyenv5/-10/5query_bensound-summer.mp3 4.5 sec 267 raw hashes as ../temp/bensound-summer.mp3 at  135.2 s with     9 of    68 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.630 x RT
+Fri Apr 26 01:17:09 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:17:12 2019 Analyzed #0 querries/noisyenv5/-10/5query_bensound-tenderness.mp3 of 4.621 s to 162 hashes
+NOMATCH querries/noisyenv5/-10/5query_bensound-tenderness.mp3 4.6 sec 162 raw hashes
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.626 x RT
+Fri Apr 26 01:17:14 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:17:17 2019 Analyzed #0 querries/noisyenv5/-10/5query_bensound-theduel.mp3 of 4.876 s to 315 hashes
+Matched querries/noisyenv5/-10/5query_bensound-theduel.mp3 4.9 sec 315 raw hashes as ../temp/bensound-theduel.mp3 at   67.0 s with    44 of   100 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.590 x RT
+Fri Apr 26 01:17:18 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:17:21 2019 Analyzed #0 querries/noisyenv5/-10/5query_bensound-thejazzpiano.mp3 of 4.807 s to 167 hashes
+Matched querries/noisyenv5/-10/5query_bensound-thejazzpiano.mp3 4.8 sec 167 raw hashes as ../temp/bensound-thejazzpiano.mp3 at   71.0 s with    12 of    14 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.580 x RT
+Fri Apr 26 01:17:22 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:17:25 2019 Analyzed #0 querries/noisyenv5/-10/5query_bensound-thelounge.mp3 of 4.574 s to 301 hashes
+Matched querries/noisyenv5/-10/5query_bensound-thelounge.mp3 4.6 sec 301 raw hashes as ../temp/bensound-thelounge.mp3 at   77.4 s with    12 of   389 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.579 x RT
+Fri Apr 26 01:17:26 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:17:29 2019 Analyzed #0 querries/noisyenv5/-10/5query_bensound-tomorrow.mp3 of 4.621 s to 193 hashes
+NOMATCH querries/noisyenv5/-10/5query_bensound-tomorrow.mp3 4.6 sec 193 raw hashes
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.611 x RT
+Fri Apr 26 01:17:30 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:17:33 2019 Analyzed #0 querries/noisyenv5/-10/5query_bensound-ukulele.mp3 of 4.621 s to 203 hashes
+Matched querries/noisyenv5/-10/5query_bensound-ukulele.mp3 4.6 sec 203 raw hashes as ../temp/bensound-ukulele.mp3 at   25.0 s with     6 of    48 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.5 s sec = 0.707 x RT
+Fri Apr 26 01:17:34 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:17:37 2019 Analyzed #0 querries/noisyenv5/-10/5query_BlastProcessing.mp3 of 4.876 s to 606 hashes
+Matched querries/noisyenv5/-10/5query_BlastProcessing.mp3 4.9 sec 606 raw hashes as ../temp/BlastProcessing.mp3 at   33.0 s with    39 of    75 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.608 x RT
+Fri Apr 26 01:17:39 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:17:42 2019 Analyzed #0 querries/noisyenv5/-10/5query_Can_t Hold Us.mp3 of 4.899 s to 299 hashes
+Matched querries/noisyenv5/-10/5query_Can_t Hold Us.mp3 4.9 sec 299 raw hashes as ../temp/Can_t Hold Us.mp3 at   65.0 s with    40 of    43 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.611 x RT
+Fri Apr 26 01:17:43 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:17:46 2019 Analyzed #0 querries/noisyenv5/-10/5query_Clubstep.mp3 of 4.899 s to 565 hashes
+Matched querries/noisyenv5/-10/5query_Clubstep.mp3 4.9 sec 565 raw hashes as ../temp/Clubstep.mp3 at   40.0 s with    12 of   279 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.602 x RT
+Fri Apr 26 01:17:47 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:17:50 2019 Analyzed #0 querries/noisyenv5/-10/5query_Clutterfunk.mp3 of 4.644 s to 461 hashes
+Matched querries/noisyenv5/-10/5query_Clutterfunk.mp3 4.6 sec 461 raw hashes as ../temp/Clutterfunk.mp3 at   42.0 s with    27 of    48 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.613 x RT
+Fri Apr 26 01:17:51 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:17:54 2019 Analyzed #0 querries/noisyenv5/-10/5query_Cycles.mp3 of 4.690 s to 507 hashes
+Matched querries/noisyenv5/-10/5query_Cycles.mp3 4.7 sec 507 raw hashes as ../temp/Cycles.mp3 at   32.0 s with    30 of   113 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.3 s sec = 0.653 x RT
+Fri Apr 26 01:17:55 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:17:58 2019 Analyzed #0 querries/noisyenv5/-10/5query_Electrodynamix.mp3 of 4.899 s to 500 hashes
+Matched querries/noisyenv5/-10/5query_Electrodynamix.mp3 4.9 sec 500 raw hashes as ../temp/Electrodynamix.mp3 at   35.0 s with    18 of   206 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.590 x RT
+Fri Apr 26 01:17:59 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:18:02 2019 Analyzed #0 querries/noisyenv5/-10/5query_Electroman.mp3 of 4.899 s to 629 hashes
+Matched querries/noisyenv5/-10/5query_Electroman.mp3 4.9 sec 629 raw hashes as ../temp/Electroman.mp3 at   58.3 s with    24 of   363 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.604 x RT
+Fri Apr 26 01:18:04 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:18:07 2019 Analyzed #0 querries/noisyenv5/-10/5query_HexagonForce.mp3 of 4.760 s to 484 hashes
+Matched querries/noisyenv5/-10/5query_HexagonForce.mp3 4.8 sec 484 raw hashes as ../temp/HexagonForce.mp3 at   42.0 s with    39 of    77 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.595 x RT
+Fri Apr 26 01:18:08 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:18:11 2019 Analyzed #0 querries/noisyenv5/-10/5query_I Need Your Love.mp3 of 4.853 s to 374 hashes
+Matched querries/noisyenv5/-10/5query_I Need Your Love.mp3 4.9 sec 374 raw hashes as ../temp/I Need Your Love.mp3 at   24.0 s with    15 of    46 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.582 x RT
+Fri Apr 26 01:18:12 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:18:15 2019 Analyzed #0 querries/noisyenv5/-10/5query_Juhani Junkala [Retro Game Music Pack] Level 2.wav of 4.737 s to 488 hashes
+Matched querries/noisyenv5/-10/5query_Juhani Junkala [Retro Game Music Pack] Level 2.wav 4.7 sec 488 raw hashes as ../temp/Juhani Junkala [Retro Game Music Pack] Level 2.wav at   32.0 s with    31 of   257 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.3 s sec = 0.651 x RT
+Fri Apr 26 01:18:16 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:18:19 2019 Analyzed #0 querries/noisyenv5/-10/5query_Jumper.mp3 of 4.551 s to 363 hashes
+Matched querries/noisyenv5/-10/5query_Jumper.mp3 4.6 sec 363 raw hashes as ../temp/Jumper.mp3 at   24.0 s with    19 of   473 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.3 s sec = 0.657 x RT
+Fri Apr 26 01:18:21 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:18:24 2019 Analyzed #0 querries/noisyenv5/-10/5query_Kaskade - Disarm You ft. Ilsey (Grey Remix).mp3 of 4.876 s to 426 hashes
+Matched querries/noisyenv5/-10/5query_Kaskade - Disarm You ft. Ilsey (Grey Remix).mp3 4.9 sec 426 raw hashes as ../temp/Kaskade - Disarm You ft. Ilsey (Grey Remix).mp3 at   54.0 s with    12 of    33 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.575 x RT
+Fri Apr 26 01:18:25 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:18:28 2019 Analyzed #0 querries/noisyenv5/-10/5query_La La Latch.mp3 of 4.760 s to 435 hashes
+Matched querries/noisyenv5/-10/5query_La La Latch.mp3 4.8 sec 435 raw hashes as ../temp/La La Latch.mp3 at  146.0 s with    45 of    65 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.628 x RT
+Fri Apr 26 01:18:29 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:18:32 2019 Analyzed #0 querries/noisyenv5/-10/5query_Love Again.mp3 of 4.621 s to 423 hashes
+Matched querries/noisyenv5/-10/5query_Love Again.mp3 4.6 sec 423 raw hashes as ../temp/Love Again.mp3 at   54.0 s with    44 of    62 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.4 s sec = 0.675 x RT
+Fri Apr 26 01:18:34 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:18:38 2019 Analyzed #0 querries/noisyenv5/-10/5query_Michael Feiner – Mantra (Axwell Cut).mp3 of 4.621 s to 393 hashes
+Matched querries/noisyenv5/-10/5query_Michael Feiner – Mantra (Axwell Cut).mp3 4.6 sec 393 raw hashes as ../temp/Michael Feiner – Mantra (Axwell Cut).mp3 at  188.6 s with    11 of   407 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.7 s sec = 0.739 x RT
+Fri Apr 26 01:18:39 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:18:42 2019 Analyzed #0 querries/noisyenv5/-10/5query_Murdock - In Touch (feat. Veela) (Hyukari Remix).mp3 of 4.667 s to 700 hashes
+Matched querries/noisyenv5/-10/5query_Murdock - In Touch (feat. Veela) (Hyukari Remix).mp3 4.7 sec 700 raw hashes as ../temp/Murdock - In Touch (feat. Veela) (Hyukari Remix).mp3 at   84.0 s with    20 of   257 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.5 s sec = 0.698 x RT
+Fri Apr 26 01:18:44 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:18:47 2019 Analyzed #0 querries/noisyenv5/-10/5query_Natural Disaster.mp3 of 4.946 s to 320 hashes
+Matched querries/noisyenv5/-10/5query_Natural Disaster.mp3 4.9 sec 320 raw hashes as ../temp/Natural Disaster.mp3 at   61.0 s with    35 of   100 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.8 s sec = 0.761 x RT
+Fri Apr 26 01:18:49 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:18:52 2019 Analyzed #0 querries/noisyenv5/-10/5query_Ove Melaa - High Stakes,Low Chances.mp3 of 4.272 s to 419 hashes
+Matched querries/noisyenv5/-10/5query_Ove Melaa - High Stakes,Low Chances.mp3 4.3 sec 419 raw hashes as ../temp/Ove Melaa - High Stakes,Low Chances.mp3 at   32.0 s with    27 of    82 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.623 x RT
+Fri Apr 26 01:18:53 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:18:57 2019 Analyzed #0 querries/noisyenv5/-10/5query_Papaoutai.mp3 of 4.690 s to 587 hashes
+Matched querries/noisyenv5/-10/5query_Papaoutai.mp3 4.7 sec 587 raw hashes as ../temp/Papaoutai.mp3 at   68.0 s with    44 of   101 common hashes at rank  1
+Processed 1 files (5.0 s total dur) in 3.7 s sec = 0.750 x RT
+Fri Apr 26 01:18:58 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:19:01 2019 Analyzed #0 querries/noisyenv5/-10/5query_Polargeist.mp3 of 4.783 s to 389 hashes
+Matched querries/noisyenv5/-10/5query_Polargeist.mp3 4.8 sec 389 raw hashes as ../temp/Polargeist.mp3 at   56.0 s with    41 of    54 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.7 s sec = 0.532 x RT
+Fri Apr 26 01:19:02 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:19:05 2019 Analyzed #0 querries/noisyenv5/-10/5query_R3hab _ Ciara - Get Up (KSHMR Remix).mp3 of 4.853 s to 636 hashes
+Matched querries/noisyenv5/-10/5query_R3hab _ Ciara - Get Up (KSHMR Remix).mp3 4.9 sec 636 raw hashes as ../temp/R3hab _ Ciara - Get Up (KSHMR Remix).mp3 at  111.0 s with    29 of    72 common hashes at rank  1
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.592 x RT
+Fri Apr 26 01:19:06 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:19:09 2019 Analyzed #0 querries/noisyenv5/-10/5query_Rachel Costanzo - Comfortable (BlueDrak3 Remix).mp3 of 4.783 s to 315 hashes
+NOMATCH querries/noisyenv5/-10/5query_Rachel Costanzo - Comfortable (BlueDrak3 Remix).mp3 4.8 sec 315 raw hashes
+Processed 1 files (5.0 s total dur) in 2.8 s sec = 0.569 x RT
+Fri Apr 26 01:19:10 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:19:13 2019 Analyzed #0 querries/noisyenv5/-10/5query_Rather Be.mp3 of 4.830 s to 467 hashes
+Matched querries/noisyenv5/-10/5query_Rather Be.mp3 4.8 sec 467 raw hashes as ../temp/Rather Be.mp3 at   69.1 s with    42 of   178 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.8 s sec = 0.550 x RT
+Fri Apr 26 01:19:14 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:19:17 2019 Analyzed #0 querries/noisyenv5/-10/5query_Run To You.mp3 of 4.644 s to 278 hashes
+NOMATCH querries/noisyenv5/-10/5query_Run To You.mp3 4.6 sec 278 raw hashes
+Processed 1 files (5.0 s total dur) in 2.8 s sec = 0.554 x RT
+Fri Apr 26 01:19:18 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:19:21 2019 Analyzed #0 querries/noisyenv5/-10/5query_Tarana - A FIRE OF FLOWERS GROWS AROUND US - 02 Kerherwa.mp3 of 4.458 s to 417 hashes
+Matched querries/noisyenv5/-10/5query_Tarana - A FIRE OF FLOWERS GROWS AROUND US - 02 Kerherwa.mp3 4.5 sec 417 raw hashes as ../temp/Tarana - A FIRE OF FLOWERS GROWS AROUND US - 02 Kerherwa.mp3 at  130.0 s with    16 of    42 common hashes at rank  1
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.604 x RT
+Fri Apr 26 01:19:22 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:19:25 2019 Analyzed #0 querries/noisyenv5/-10/5query_Tarana - A FIRE OF FLOWERS GROWS AROUND US - 03 That Tweaky.mp3 of 4.644 s to 370 hashes
+Matched querries/noisyenv5/-10/5query_Tarana - A FIRE OF FLOWERS GROWS AROUND US - 03 That Tweaky.mp3 4.6 sec 370 raw hashes as ../temp/Tarana - A FIRE OF FLOWERS GROWS AROUND US - 03 That Tweaky.mp3 at   88.0 s with     7 of    31 common hashes at rank  4
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.602 x RT
+Fri Apr 26 01:19:26 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:19:29 2019 Analyzed #0 querries/noisyenv5/-10/5query_Tarana - A FIRE OF FLOWERS GROWS AROUND US - 04 Batik.mp3 of 4.667 s to 290 hashes
+Matched querries/noisyenv5/-10/5query_Tarana - A FIRE OF FLOWERS GROWS AROUND US - 04 Batik.mp3 4.7 sec 290 raw hashes as ../temp/Tarana - A FIRE OF FLOWERS GROWS AROUND US - 04 Batik.mp3 at   92.0 s with    31 of   286 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.600 x RT
+Fri Apr 26 01:19:31 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:19:34 2019 Analyzed #0 querries/noisyenv5/-10/5query_Tarana - A FIRE OF FLOWERS GROWS AROUND US - 06 Tehrah.mp3 of 4.621 s to 240 hashes
+Matched querries/noisyenv5/-10/5query_Tarana - A FIRE OF FLOWERS GROWS AROUND US - 06 Tehrah.mp3 4.6 sec 240 raw hashes as ../temp/Tarana - A FIRE OF FLOWERS GROWS AROUND US - 06 Tehrah.mp3 at   89.0 s with    11 of    12 common hashes at rank  1
+Processed 1 files (5.0 s total dur) in 3.5 s sec = 0.696 x RT
+Fri Apr 26 01:19:35 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:19:38 2019 Analyzed #0 querries/noisyenv5/-10/5query_TheoryOfEverything.mp3 of 4.714 s to 297 hashes
+Matched querries/noisyenv5/-10/5query_TheoryOfEverything.mp3 4.7 sec 297 raw hashes as ../temp/TheoryOfEverything.mp3 at   51.0 s with    12 of    39 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.0 s sec = 0.605 x RT
+Fri Apr 26 01:19:39 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:19:42 2019 Analyzed #0 querries/noisyenv5/-10/5query_Throttle x Earth, Wind _ Fire - September (Original Mix).mp3 of 4.876 s to 323 hashes
+Matched querries/noisyenv5/-10/5query_Throttle x Earth, Wind _ Fire - September (Original Mix).mp3 4.9 sec 323 raw hashes as ../temp/Throttle x Earth, Wind _ Fire - September (Original Mix).mp3 at  156.0 s with    21 of    26 common hashes at rank  2
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.613 x RT
+Fri Apr 26 01:19:43 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:19:46 2019 Analyzed #0 querries/noisyenv5/-10/5query_TimeMachine.mp3 of 4.807 s to 361 hashes
+Matched querries/noisyenv5/-10/5query_TimeMachine.mp3 4.8 sec 361 raw hashes as ../temp/TimeMachine.mp3 at   50.0 s with    13 of    50 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.589 x RT
+Fri Apr 26 01:19:47 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:19:51 2019 Analyzed #0 querries/noisyenv5/-10/5query_Unthunk_-_Jumblesque_-_01_Flummox.mp3 of 4.621 s to 276 hashes
+Matched querries/noisyenv5/-10/5query_Unthunk_-_Jumblesque_-_01_Flummox.mp3 4.6 sec 276 raw hashes as ../temp/Unthunk_-_Jumblesque_-_01_Flummox.mp3 at   47.0 s with    49 of    89 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 4.0 s sec = 0.794 x RT
+Fri Apr 26 01:19:52 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:19:56 2019 Analyzed #0 querries/noisyenv5/-10/5query_Unthunk_-_Jumblesque_-_04_Lope.mp3 of 4.505 s to 247 hashes
+NOMATCH querries/noisyenv5/-10/5query_Unthunk_-_Jumblesque_-_04_Lope.mp3 4.5 sec 247 raw hashes
+Processed 1 files (5.0 s total dur) in 3.5 s sec = 0.701 x RT
+Fri Apr 26 01:19:57 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:20:00 2019 Analyzed #0 querries/noisyenv5/-10/5query_Unthunk_-_Jumblesque_-_05_Purge.mp3 of 4.899 s to 279 hashes
+Matched querries/noisyenv5/-10/5query_Unthunk_-_Jumblesque_-_05_Purge.mp3 4.9 sec 279 raw hashes as ../temp/Unthunk_-_Jumblesque_-_05_Purge.mp3 at   35.0 s with    43 of   430 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.2 s sec = 0.638 x RT
+Fri Apr 26 01:20:01 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:20:04 2019 Analyzed #0 querries/noisyenv5/-10/5query_Unthunk_-_Jumblesque_-_07_Hermetic.mp3 of 4.644 s to 300 hashes
+NOMATCH querries/noisyenv5/-10/5query_Unthunk_-_Jumblesque_-_07_Hermetic.mp3 4.6 sec 300 raw hashes
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.572 x RT
+Fri Apr 26 01:20:05 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:20:08 2019 Analyzed #0 querries/noisyenv5/-10/5query_Unthunk_-_Jumblesque_-_10_Diorama.mp3 of 4.876 s to 240 hashes
+Matched querries/noisyenv5/-10/5query_Unthunk_-_Jumblesque_-_10_Diorama.mp3 4.9 sec 240 raw hashes as ../temp/Unthunk_-_Jumblesque_-_10_Diorama.mp3 at  130.0 s with    18 of    22 common hashes at rank  6
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.623 x RT
+Fri Apr 26 01:20:09 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:20:12 2019 Analyzed #0 querries/noisyenv5/-10/5query_Until The Dawn - We Are One People (Flite Remix).mp3 of 4.923 s to 311 hashes
+Matched querries/noisyenv5/-10/5query_Until The Dawn - We Are One People (Flite Remix).mp3 4.9 sec 311 raw hashes as ../temp/Until The Dawn - We Are One People (Flite Remix).mp3 at  185.0 s with    15 of    39 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.9 s sec = 0.573 x RT
+Fri Apr 26 01:20:13 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:20:16 2019 Analyzed #0 querries/noisyenv5/-10/5query_wave018.1_antigua_-_no_more.mp3 of 4.621 s to 676 hashes
+Matched querries/noisyenv5/-10/5query_wave018.1_antigua_-_no_more.mp3 4.6 sec 676 raw hashes as ../temp/wave018.1_antigua_-_no_more.mp3 at   52.2 s with    18 of   608 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 3.6 s sec = 0.725 x RT
+Fri Apr 26 01:20:17 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:20:20 2019 Analyzed #0 querries/noisyenv5/-10/5query_wave018.2_antigua_-_take_five.mp3 of 4.621 s to 176 hashes
+NOMATCH querries/noisyenv5/-10/5query_wave018.2_antigua_-_take_five.mp3 4.6 sec 176 raw hashes
+Processed 1 files (5.0 s total dur) in 3.1 s sec = 0.622 x RT
+Fri Apr 26 01:20:21 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:20:24 2019 Analyzed #0 querries/noisyenv5/-10/5query_Wolfgang Gartner Feat Medina - Overdose (Explicit).mp3 of 4.923 s to 425 hashes
+Matched querries/noisyenv5/-10/5query_Wolfgang Gartner Feat Medina - Overdose (Explicit).mp3 4.9 sec 425 raw hashes as ../temp/Wolfgang Gartner Feat Medina - Overdose (Explicit).mp3 at  153.0 s with    25 of    48 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.8 s sec = 0.557 x RT
+Fri Apr 26 01:20:25 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:20:27 2019 Analyzed #0 querries/noisyenv5/-10/5query_xStep.mp3 of 4.783 s to 510 hashes
+Matched querries/noisyenv5/-10/5query_xStep.mp3 4.8 sec 510 raw hashes as ../temp/xStep.mp3 at   54.0 s with    26 of   194 common hashes at rank  0
+Processed 1 files (5.0 s total dur) in 2.6 s sec = 0.524 x RT
+Fri Apr 26 01:20:28 2019 Reading hash table audfprint/fulldbase.pklz
+Read fprints for 415 files ( 1841944 hashes) from audfprint/fulldbase.pklz (0.35% dropped)
+Fri Apr 26 01:20:31 2019 Analyzed #0 querries/noisyenv5/-10/5query_Zedd feat. Bahari - Addicted to a Memory.mp3 of 4.830 s to 481 hashes
+Matched querries/noisyenv5/-10/5query_Zedd feat. Bahari - Addicted to a Memory.mp3 4.8 sec 481 raw hashes as ../temp/Zedd feat. Bahari - Addicted to a Memory.mp3 at   78.0 s with    21 of    40 common hashes at rank  2
+Processed 1 files (5.0 s total dur) in 2.8 s sec = 0.554 x RT
