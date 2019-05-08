@@ -1,13 +1,21 @@
 # -*- coding: cp1252 -*-
+# imports
 import subprocess
 import os
 import random
 import audfprint
 import re
+"""
+Calculates the basis accuracy on the non modified queries
+"""
+
+# query length array
 querryLen = [5,10,15]
 #querryLen = [5]
+# name of the matching file
 qpath = 'matches.txt'
 
+# for all lines in matches count matching lines and matches
 for ql in querryLen:
     print("CalcGroundtruth for: " + str(ql))
     c = 0

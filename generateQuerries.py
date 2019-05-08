@@ -1,10 +1,16 @@
 import subprocess
 import os
 import random
+"""
+Generate the ground Queries
+"""
+
+
 files = os.listdir("temp/")
 print('Toalfiles: ' + str(len(files)))
 fileLengths = []
 querryLen = [5,10,15]
+# choose 50% of the orignal songs randomly
 files = random.sample(files,len(files)//2)
 print('Selected Files: ' + str(len(files)))
 
@@ -25,6 +31,7 @@ for ql in querryLen:
         out =(ffmpeg_P.communicate()[0])
         out = out.replace("\r\n","")
         duration = int(float(out))
+        # if the song is at least 50 seconds crop a peace out of the middle
         if(duration > 50):
             c+=1
             # get random start time for querry

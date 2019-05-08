@@ -1,6 +1,10 @@
 import subprocess
 import os
 import random
+"""
+Generate the queries for changed speed
+"""
+
 querryPath = "querries/"
 querryLen = [5,10,15]
 goalPath = querryPath+"speedUp"

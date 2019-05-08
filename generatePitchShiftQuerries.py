@@ -1,6 +1,9 @@
 import subprocess
 import os
 import random
+"""
+Generate the pitch shifted queries
+"""
 querryPath = "querries/"
 querryLen = [5,10,15]
 goalPath = querryPath+"pitchAdjust"

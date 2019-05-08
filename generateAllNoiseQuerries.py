@@ -2,12 +2,21 @@ import subprocess
 import os
 import random
 import re
+
+"""
+Generates all querie files for all noise modifications
+"""
+
 querryPath = "querries/"
 querryLen = [5,10,15]
 noisesamples = ['noise','noisyenv','speech']
 dbValues = [-15,-10,-5,0,5,10,15]
+# for every query length
 for ql in querryLen:
+    # for specific noise type
     for ns in noisesamples:
+
+        # set up paths
         goalPath = querryPath+ns
         print("Strated with QL: " + str(ql))
 
@@ -58,6 +67,7 @@ for ql in querryLen:
                 ffmpeg_P = subprocess.Popen(command, stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
                 out =(ffmpeg_P.communicate()[0])
             garbageFiles = os.listdir(dbpath)
+            # delete the unecessary garbage files that were created
             for f in garbageFiles:
                 if('prep_' in f):
                     os.remove(dbpath+f)

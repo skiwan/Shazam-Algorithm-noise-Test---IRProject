@@ -1,34 +1,47 @@
 # -*- coding: cp1252 -*-
+# Imports
 import subprocess
 import os
 import random
 import audfprint
 import re
 import os
+"""
+This file generates the results on accuarcy for the experiments below
+The matching txt files have to be created before running this
+"""
+
+
+# Lengths Array 
 querryLen = [5,10,15]
-#querryLen = [5]
+# list of the beginnings of all match files
 qpath = ['compressionq','noiseq','noisyenvq','pitchq','speechq','speedupq']
 files = os.listdir(os.getcwd())
+# find the 'real files' that are needed for matching
 rf = []
 for f in files:
     if ('.txt' in f):
         rf.append(f)
-rf.sort()
+rf.sort() # sorting to make output a bit cleaner
+# for all experiments
 for p in qpath:
+    # for all lengths of queries
     for ql in querryLen:
         print("Calc Acc for: " + p+ str(ql))
         filePart = p + str(ql)
         for ff in rf:
             if(filePart in ff):
+                # open correct txt file
                 l = 0
                 c = 0
                 s = ff.replace(filePart+'_','')
                 s = s.replace('.txt','')
                 print(s)
                 with open(ff) as f:
-                    #print('opened',f)
+                    # read all lines
                     allLines = f.readlines()
                 for line in allLines:
+                    # count matching lines and matches
                     if('NOMATCH' in line):
                         l += 1
                         continue
@@ -59,6 +72,7 @@ for p in qpath:
                             print(cline)
                             print(qq)
                             print(qa)
+                # print out accuracy
                 print(ql,c,'/',l,float(c)/l)
         print('\n\n')
     
