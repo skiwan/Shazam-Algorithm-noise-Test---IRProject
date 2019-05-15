@@ -1,9 +1,0 @@
-CalcGroundtruth for: 5
-Calculate for file: q5matches.txt
-(5, 198, '/', 198, 1.0)
-CalcGroundtruth for: 10
-Calculate for file: q10matches.txt
-(10, 203, '/', 203, 1.0)
-CalcGroundtruth for: 15
-Calculate for file: q15matches.txt
-(15, 201, '/', 201, 1.0)
