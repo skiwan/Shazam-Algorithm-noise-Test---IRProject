@@ -7,23 +7,97 @@ Then make sure Ffmpeg is installed on your computer
 
 https://ffmpeg.org/
 
+# How to use this repo
 
-Now short how tos for different tasks
+## Add Music to database
 
-## add music to the database
-create a folder called temp on the same level as audfprint
-put your music files into that folder (temp is in git ignore so it wont be tracked)
-navigate with your shell into the audfprint folder
+First we need to add music to our database to have something to test on
+Create a folder called "temp" on the same level as audfprint.
+Next put the music files you want to index into that folder.
 
-execute the following command with python2
+Now navigate with a shell into the audfprint folder (cd audfprint/)
 
-```python
-python audfprint.py add -dbase fulldbase.pklz ../temp/*
+execute the following command with python2 in your shell
+
+```shell
+python audfprint.py add -dbase fulldbase.pklz ../temp/Ü
 ```
 
-this will add your music to the database completly indexex
-(Note the songs you index should not ecxeed a playtime of 6 minutes per song)
+this will add your music to the database completly indexed
+(Note the songs you index should not exceed a playtime of 6 minutes per song)
 
+## Create search queries
+
+now we need to create our querie files that will be used to seearch against the database. In this example queries with the length of 5sec, 10 sec and 15sec will be created.
+
+go back into the root folder and execute the "generateQuerries.py" file with python 2
+
+This will create our base queries.
+
+Now lets match those base queries. For that execute the following commands in you shell
+```shell
+sh matchq5.sh > q5matches.txt
+sh matchq10.sh > q10.matches.txt
+sh matchq15.sh > q15.matches.txt
+```
+
+Now we want to calculate the ground truth accuracy of those base queries.
+
+Execute the python file calculateGroundtruth.py
+This will print the accuary for all query types
+
+## Generate Noise queries
+
+Now we need to generate all the noise queries of different kinds to test our algorithm. For that we need to execute the following python files.
+
+generateAllNoiseQuerries.py
+-> This will generate queries with added white noise, speech noise and ambience noise
+
+generateCompressedQuerries.py
+-> This will generate queries with compressed bitrate
+
+generatePitchShiftQuerries.py
+-> This will generate queries with shifted pitch
+
+generateSpedUpQuerries.py
+-> This will generate queries which have different speeds
+
+## Generate matching files for queries.
+
+Now we need to generate the matches for the different queires. For that we need to execute a multitude of different shell scripts.
+
+all of them follow the same naming
+matchq*noisetype**querylength*_*noiseparameter*
+
+execute them in the following manner
+
+sh *shfile* > *noisetype*q_*noiseparameter*.txt
+
+So for example
+
+sh matchqcompression5_5.sh > compression15_5.txt
+
+after you executed all the batch files and thus created all the matching files (txt files) you can finally compute the accuracy
+
+## Calculate accuracy
+
+execute calculateAccAll.py via python2 and pipe the output into a txt file. For example
+
+python calculateAccAll.py > results.txt
+
+Now you are done.
+You can find all the accuracy values in the result.txt files to find out how well the audfprint (shazam) algorithm works with different noise types.
+
+
+
+
+
+
+
+
+
+
+Execute the file
 
 ## create an x second snippet from an audio file with ffmpeg
 in your command shell execute

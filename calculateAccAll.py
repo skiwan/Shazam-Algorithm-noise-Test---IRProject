@@ -66,12 +66,12 @@ for p in qpath:
                         qa = qa.replace('../temp/','')
                         if(qa == qq):
                             c += 1
-                        
-                        else:
+                        # comment in to get info about the mismatches
+                        """else:
                             print('\nMISMATCH')
                             print(cline)
                             print(qq)
-                            print(qa)
+                            print(qa)"""
                 # print out accuracy
                 print(ql,c,'/',l,float(c)/l)
         print('\n\n')
